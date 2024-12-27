@@ -1,0 +1,84 @@
+2024-12-13 12:21:12.073 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 12:21:12.074 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 12:21:12.074 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 12:21:12.642 [info] Started local extension host with pid 90006.
+2024-12-13 12:21:13.545 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-12-13 12:21:13.548 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 12:21:13.726 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-12-13 12:21:15.784 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-12-13 12:21:17.648 [info] [perf] Render performance baseline is 72ms
+2024-12-13 12:21:18.510 [warning] Error getting latest version of the extension undefined_publisher.wallbash 400
+2024-12-13 12:21:30.743 [info] Settings Sync: Token updated for the account alikhan37544@gmail.com
+2024-12-13 12:21:30.748 [info] Settings Sync: Account status changed from uninitialized to available
+2024-12-13 12:38:04.753 [error] spawn java ENOENT: Error: spawn java ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-12-13 14:50:14.950 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 14:50:14.950 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 14:50:14.951 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 14:50:15.160 [info] Started local extension host with pid 139762.
+2024-12-13 14:50:15.434 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-12-13 14:50:15.437 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 14:50:15.482 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-12-13 14:50:21.865 [warning] Error getting latest version of the extension undefined_publisher.wallbash 400
+2024-12-13 14:50:43.114 [info] Settings Sync: Token updated for the account alikhan37544@gmail.com
+2024-12-13 14:50:43.115 [info] Settings Sync: Account status changed from uninitialized to available
+2024-12-13 14:54:08.217 [info] [perf] Render performance baseline is 26ms
+2024-12-13 15:08:15.721 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-12-13 15:32:10.244 [info] Settings Sync: Token updated for the account alikhan37544@gmail.com
+2024-12-13 15:35:38.948 [info] Settings Sync: Token updated for the account alikhan37544@gmail.com
+2024-12-13 15:39:35.612 [info] Settings Sync: Token updated for the account alikhan37544@gmail.com
+2024-12-13 15:46:51.549 [info] Settings Sync: Token updated for the account alikhan37544@gmail.com
+2024-12-13 15:50:15.775 [info] Settings Sync: Token updated for the account alikhan37544@gmail.com
+2024-12-13 16:37:11.585 [info] Settings Sync: Token updated for the account alikhan37544@gmail.com
+2024-12-13 16:37:11.648 [info] Settings Sync: Reset current session
+2024-12-13 16:37:11.650 [info] Settings Sync: Account status changed from available to unavailable
+2024-12-13 19:43:32.024 [error] spawn java ENOENT: Error: spawn java ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-12-13 19:49:30.044 [error] Unable to read file '/home/understressengineer/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb' (Error: Unable to resolve nonexistent file '/home/understressengineer/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb'): Error: Unable to read file '/home/understressengineer/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb' (Error: Unable to resolve nonexistent file '/home/understressengineer/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb')
+    at Uot.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3109:64665)
+    at Uot.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3109:64490)
+    at async _pe.Z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1886:10603)
+    at async $Ue.mb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1886:23436)
+    at async tW.load (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:780:50864)
+    at async FUe.b (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1886:33318)
+    at async VUe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1886:35880)
+    at async Ume.provideTextContent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1950:10513)
+    at async k9e.u (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:21919)
+    at async k9e.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:20999)
+2024-12-13 19:49:31.579 [error] Unable to read file '/home/understressengineer/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb' (Error: Unable to resolve nonexistent file '/home/understressengineer/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb'): Error: Unable to read file '/home/understressengineer/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb' (Error: Unable to resolve nonexistent file '/home/understressengineer/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb')
+    at Uot.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3109:64665)
+    at Uot.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3109:64490)
+    at async _pe.Z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1886:10603)
+    at async $Ue.mb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1886:23436)
+    at async tW.load (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:780:50864)
+    at async FUe.b (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1886:33318)
+    at async VUe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1886:35880)
+    at async Ume.provideTextContent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1950:10513)
+    at async k9e.u (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:21919)
+    at async k9e.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:20999)
+2024-12-13 19:53:55.436 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 19:53:55.437 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 19:53:55.437 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 19:53:55.958 [info] Started local extension host with pid 313607.
+2024-12-13 19:53:56.705 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-12-13 19:53:56.709 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-13 19:53:56.808 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-12-13 19:54:03.901 [warning] Error getting latest version of the extension undefined_publisher.wallbash 400
+2024-12-13 19:54:12.097 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2024-12-13 19:55:14.359 [warning] Creation of workbench contribution 'workbench.contrib.chatSlashStaticSlashCommands' took 102ms.
+2024-12-13 19:55:20.464 [warning] Creation of workbench contribution 'chat.implicitContext' took 103ms.
+2024-12-13 19:55:26.581 [warning] Creation of workbench contribution 'workbench.contrib.chatGettingStarted' took 115ms.
+2024-12-13 19:56:18.446 [warning] Creation of workbench contribution 'terminalWslRecommendation' took 110ms.
+2024-12-13 19:57:10.260 [warning] Creation of workbench contribution 'workbench.contrib.syncScrolling' took 104ms.
+2024-12-13 19:57:16.402 [warning] Creation of workbench contribution 'workbench.contrib.dropOrPasteIntoSchema' took 138ms.
+2024-12-13 19:57:43.750 [info] [perf] Render performance baseline is 116ms
+2024-12-13 19:57:44.138 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-12-14 17:00:57.925 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2024-12-14 17:00:57.926 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2024-12-14 17:00:57.940 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2024-12-14 17:00:57.940 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2024-12-15 22:52:32.546 [info] Settings Sync: Updated current session f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:000340010FA7A2AA/3fa5a474-c921-470f-bf5b-b3eb26d8bc4b

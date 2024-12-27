@@ -1,0 +1,49 @@
+2024-12-24 10:49:52.403 [info] [main] Log level: Info
+2024-12-24 10:49:52.403 [info] [main] Validating found git in: "git"
+2024-12-24 10:49:52.403 [info] [main] Using git "2.47.1" from "git"
+2024-12-24 10:49:52.403 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-24 10:49:52.403 [info] > git rev-parse --show-toplevel [6ms]
+2024-12-24 10:49:52.403 [info] > git rev-parse --git-dir --git-common-dir [909ms]
+2024-12-24 10:49:52.403 [info] [Model][openRepository] Opened repository: /home/understressengineer/programming/ML-From-Scratch
+2024-12-24 10:49:52.433 [info] > git rev-parse --show-toplevel [99ms]
+2024-12-24 10:49:52.434 [info] > git config --get commit.template [116ms]
+2024-12-24 10:49:52.470 [info] > git rev-parse --show-toplevel [23ms]
+2024-12-24 10:49:52.483 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-12-24 10:49:52.486 [info] > git rev-parse --show-toplevel [6ms]
+2024-12-24 10:49:52.488 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-24 10:49:52.578 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+2024-12-24 10:49:54.267 [info] > git check-ignore -v -z --stdin [124ms]
+2024-12-24 10:49:54.268 [info] > git show --textconv :Google For Developers/portion.txt [53ms]
+2024-12-24 10:49:54.268 [info] > git status -z -uall [1715ms] (cancelled)
+2024-12-24 10:49:54.268 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [41ms]
+2024-12-24 10:49:54.289 [info] > git cat-file -s cc85fdba5f5e05603c03df92da64cfb9813599b8 [8ms]
+2024-12-24 10:49:54.370 [info] > git blame --root --incremental 562ef3cc18839172a205a0ced25c68b41cba12b3 -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [23ms]
+2024-12-24 10:49:55.105 [info] > git config --local branch.main.github-pr-owner-number [5ms]
+2024-12-24 10:49:55.105 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-24 10:50:00.076 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2024-12-24 10:50:00.093 [info] > git config --local branch.main.vscode-merge-base [5ms]
+2024-12-24 10:50:00.093 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-24 10:50:00.104 [info] > git config --get commit.template [32ms]
+2024-12-24 10:50:00.815 [info] > git reflog main --grep-reflog=branch: Created from *. [711ms]
+2024-12-24 10:50:00.838 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [13ms]
+2024-12-24 10:50:00.838 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-12-24 10:50:00.838 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-12-24 10:50:00.850 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2024-12-24 10:50:00.851 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2024-12-24 10:50:00.891 [info] > git diff --name-status -z --diff-filter=ADMR 562ef3cc18839172a205a0ced25c68b41cba12b3...refs/remotes/origin/main [27ms]
+2024-12-24 10:50:00.892 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-24 10:50:01.093 [info] > git status -z -uall [219ms] (cancelled)
+2024-12-24 10:50:01.108 [info] > git fetch [1049ms]
+2024-12-24 10:50:01.108 [info] From https://github.com/alikhan37544/ML-From-Scratch
+   562ef3c..81b54d3  main       -> origin/main
+2024-12-24 10:50:01.134 [info] > git config --get commit.template [12ms]
+2024-12-24 10:50:01.134 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-12-24 10:50:01.935 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [780ms]
+2024-12-24 10:50:02.064 [info] > git status -z -uall [920ms] (cancelled)
+2024-12-24 10:50:02.064 [info] > git merge-base refs/heads/main refs/remotes/origin/main [25ms]
+2024-12-24 10:50:02.095 [info] > git diff --name-status -z --diff-filter=ADMR 562ef3cc18839172a205a0ced25c68b41cba12b3...refs/remotes/origin/main [19ms]
+2024-12-24 10:50:02.805 [info] > git config --local branch.main.github-pr-owner-number [713ms]
+2024-12-24 10:50:02.805 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-24 10:50:10.004 [info] > git show --textconv :Google For Developers/portion.txt [13ms]
+2024-12-24 10:50:10.004 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [1ms]
+2024-12-24 10:50:10.016 [info] > git cat-file -s cc85fdba5f5e05603c03df92da64cfb9813599b8 [1ms]

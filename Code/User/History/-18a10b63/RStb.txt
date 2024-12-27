@@ -1,0 +1,8 @@
+Google AI-ML course units to be completed:
+UNIT-1 Program neural networks with TensorFlow
+UNIT-2 Get started with object detection
+UNIT-3 Go further with object detection
+UNIT-4 Get started with product image search
+UNIT-5 Go further with product image search
+UNIT-6 Go further with image classification
+

@@ -1,0 +1,115 @@
+2024-12-13 12:21:21.062 [info] [main] Log level: Info
+2024-12-13 12:21:21.062 [info] [main] Validating found git in: "git"
+2024-12-13 12:21:21.062 [info] [main] Using git "2.47.1" from "git"
+2024-12-13 12:21:21.062 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-13 12:21:21.062 [info] > git rev-parse --show-toplevel [843ms]
+2024-12-13 12:21:21.062 [info] > git rev-parse --git-dir --git-common-dir [298ms]
+2024-12-13 12:21:21.062 [info] [Model][openRepository] Opened repository: /home/understressengineer/programming/ML-From-Scratch
+2024-12-13 12:21:21.964 [info] > git rev-parse --show-toplevel [719ms]
+2024-12-13 12:21:21.965 [info] > git config --get commit.template [738ms]
+2024-12-13 12:21:22.069 [info] > git fetch [1081ms]
+2024-12-13 12:21:22.134 [info] > git check-ignore -v -z --stdin [152ms]
+2024-12-13 12:21:22.136 [info] > git rev-parse --show-toplevel [97ms]
+2024-12-13 12:21:22.139 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-13 12:21:22.206 [info] > git config --get commit.template [81ms]
+2024-12-13 12:21:22.206 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [100ms]
+2024-12-13 12:21:24.461 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [90ms]
+2024-12-13 12:21:24.672 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [147ms]
+2024-12-13 12:21:24.764 [info] > git config --local branch.main.vscode-merge-base [75ms]
+2024-12-13 12:21:24.764 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-13 12:21:24.780 [info] > git config --get commit.template [117ms]
+2024-12-13 12:21:24.841 [info] > git reflog main --grep-reflog=branch: Created from *. [61ms]
+2024-12-13 12:21:24.903 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [42ms]
+2024-12-13 12:21:24.903 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-12-13 12:21:24.903 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-12-13 12:21:24.923 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [95ms]
+2024-12-13 12:21:25.025 [info] > git config --local branch.main.vscode-merge-base [86ms]
+2024-12-13 12:21:25.025 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-13 12:21:25.040 [info] > git merge-base refs/heads/main refs/remotes/origin/main [118ms]
+2024-12-13 12:21:25.056 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [161ms]
+2024-12-13 12:21:25.146 [info] > git diff --name-status -z --diff-filter=ADMR 5c638f030a15b76f165f28440d99ccb22a606d6f...refs/remotes/origin/main [90ms]
+2024-12-13 12:21:25.147 [info] > git reflog main --grep-reflog=branch: Created from *. [107ms]
+2024-12-13 12:21:25.200 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [37ms]
+2024-12-13 12:21:25.200 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-12-13 12:21:25.200 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-12-13 12:21:25.320 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [25ms]
+2024-12-13 12:21:25.844 [info] > git status -z -uall [564ms] (cancelled)
+2024-12-13 12:21:25.844 [info] > git config --local branch.main.github-pr-owner-number [204ms]
+2024-12-13 12:21:25.844 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-13 12:26:09.603 [info] > git fetch [598ms]
+2024-12-13 12:26:09.657 [info] > git config --get commit.template [24ms]
+2024-12-13 12:26:09.658 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-12-13 12:26:09.720 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-12-13 12:26:10.088 [info] > git status -z -uall [405ms] (cancelled)
+2024-12-13 12:34:37.567 [info] > git fetch [601ms]
+2024-12-13 12:34:37.614 [info] > git config --get commit.template [23ms]
+2024-12-13 12:34:37.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-12-13 12:34:37.659 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-13 12:34:38.031 [info] > git status -z -uall [396ms] (cancelled)
+2024-12-13 12:37:39.336 [info] > git fetch [764ms]
+2024-12-13 12:37:39.393 [info] > git config --get commit.template [4ms]
+2024-12-13 12:37:39.441 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-12-13 12:37:39.560 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2024-12-13 12:37:39.931 [info] > git status -z -uall [432ms] (cancelled)
+2024-12-13 14:50:19.401 [info] [main] Log level: Info
+2024-12-13 14:50:19.401 [info] [main] Validating found git in: "git"
+2024-12-13 14:50:19.401 [info] [main] Using git "2.47.1" from "git"
+2024-12-13 14:50:19.401 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-13 14:50:19.401 [info] > git rev-parse --show-toplevel [11ms]
+2024-12-13 14:50:19.401 [info] > git rev-parse --git-dir --git-common-dir [752ms]
+2024-12-13 14:50:19.401 [info] [Model][openRepository] Opened repository: /home/understressengineer/programming/ML-From-Scratch
+2024-12-13 14:50:20.056 [info] > git rev-parse --show-toplevel [522ms]
+2024-12-13 14:50:20.057 [info] > git config --get commit.template [538ms]
+2024-12-13 14:50:20.166 [info] > git check-ignore -v -z --stdin [26ms]
+2024-12-13 14:50:20.167 [info] > git rev-parse --show-toplevel [45ms]
+2024-12-13 14:50:20.170 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-13 14:50:20.201 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [46ms]
+2024-12-13 14:50:21.672 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1336ms]
+2024-12-13 14:50:21.798 [info] > git status -z -uall [1473ms] (cancelled)
+2024-12-13 14:50:22.662 [info] > git config --local branch.main.github-pr-owner-number [79ms]
+2024-12-13 14:50:22.662 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-13 19:49:29.055 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-13 19:53:18.728 [info] > git show --textconv :Google For Developers/portion.txt [44ms]
+2024-12-13 19:53:18.732 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [7ms]
+2024-12-13 19:53:18.990 [info] > git check-ignore -v -z --stdin [5ms]
+2024-12-13 19:53:19.772 [info] > git blame --root --incremental 5c638f030a15b76f165f28440d99ccb22a606d6f -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [15ms]
+2024-12-13 19:53:19.772 [info] fatal: no such path Google For Developers/portion.txt in 5c638f030a15b76f165f28440d99ccb22a606d6f
+2024-12-13 19:54:04.620 [info] [main] Log level: Info
+2024-12-13 19:54:04.620 [info] [main] Validating found git in: "git"
+2024-12-13 19:54:04.620 [info] [main] Using git "2.47.1" from "git"
+2024-12-13 19:54:04.620 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-13 19:54:04.620 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-13 19:54:04.620 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2024-12-13 19:54:04.620 [info] [Model][openRepository] Opened repository: /home/understressengineer/programming/ML-From-Scratch
+2024-12-13 19:54:04.620 [info] > git rev-parse --show-toplevel [60ms]
+2024-12-13 19:54:04.620 [info] > git config --get commit.template [67ms]
+2024-12-13 19:54:04.620 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-12-13 19:54:04.620 [info] > git rev-parse --show-toplevel [12ms]
+2024-12-13 19:54:04.620 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-13 19:54:04.620 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-12-13 19:54:04.620 [info] > git status -z -uall [5673ms] (cancelled)
+2024-12-13 19:54:04.637 [info] > git check-ignore -v -z --stdin [329ms]
+2024-12-13 19:54:09.246 [info] > git config --local branch.main.github-pr-owner-number [105ms]
+2024-12-13 19:54:09.246 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-13 19:57:47.107 [info] > git show --textconv :Google For Developers/portion.txt [23ms]
+2024-12-13 19:57:47.109 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [3ms]
+2024-12-13 19:57:47.146 [info] > git blame --root --incremental 5c638f030a15b76f165f28440d99ccb22a606d6f -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [3ms]
+2024-12-13 19:57:47.146 [info] fatal: no such path Google For Developers/portion.txt in 5c638f030a15b76f165f28440d99ccb22a606d6f
+2024-12-14 13:08:05.016 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [1ms]
+2024-12-14 13:08:05.040 [info] > git show --textconv :Google For Developers/portion.txt [1ms]
+2024-12-14 13:08:13.106 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [6ms]
+2024-12-14 13:08:13.132 [info] > git cat-file -s cc85fdba5f5e05603c03df92da64cfb9813599b8 [6ms]
+2024-12-14 13:08:13.192 [info] > git show --textconv :Google For Developers/portion.txt [2ms]
+2024-12-14 13:08:14.312 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [2ms]
+2024-12-14 13:08:14.331 [info] > git cat-file -s cc85fdba5f5e05603c03df92da64cfb9813599b8 [2ms]
+2024-12-14 13:08:14.353 [info] > git show --textconv :Google For Developers/portion.txt [2ms]
+2024-12-14 13:08:24.972 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [3ms]
+2024-12-14 13:08:25.008 [info] > git cat-file -s cc85fdba5f5e05603c03df92da64cfb9813599b8 [2ms]
+2024-12-14 13:08:25.040 [info] > git show --textconv :Google For Developers/portion.txt [2ms]
+2024-12-14 13:08:28.346 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [2ms]
+2024-12-14 13:08:28.374 [info] > git cat-file -s cc85fdba5f5e05603c03df92da64cfb9813599b8 [2ms]
+2024-12-14 13:08:28.404 [info] > git show --textconv :Google For Developers/portion.txt [2ms]
+2024-12-14 13:11:48.791 [info] > git check-ignore -v -z --stdin [1ms]
+2024-12-15 22:52:20.604 [info] > git show --textconv :Google For Developers/portion.txt [13ms]
+2024-12-15 22:52:20.605 [info] > git ls-files --stage -- /home/understressengineer/programming/ML-From-Scratch/Google For Developers/portion.txt [2ms]
+2024-12-15 22:52:20.618 [info] > git cat-file -s cc85fdba5f5e05603c03df92da64cfb9813599b8 [1ms]

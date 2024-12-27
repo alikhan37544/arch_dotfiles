@@ -1,0 +1,41 @@
+2024-12-24 10:50:06.348 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.0)
+2024-12-24 10:50:07.173 [info] [Info  - 10:50:07 AM] (4716) Server root directory: file:///home/understressengineer/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-24 10:50:07.177 [info] [Info  - 10:50:07 AM] (4716) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-24 10:50:07.184 [info] [Info  - 10:50:07 AM] (4716) Starting service instance "ML-From-Scratch"
+2024-12-24 10:50:07.291 [info] [Info  - 10:50:07 AM] (4716) Setting environmentName for service "ML-From-Scratch": "3.10.14 (env_hack venv)"
+2024-12-24 10:50:07.292 [info] [Info  - 10:50:07 AM] (4716) Setting pythonPath for service "ML-From-Scratch": "/home/understressengineer/programming/env_hack/bin/python"
+2024-12-24 10:50:07.292 [info] [Info  - 10:50:07 AM] (4716) No include entries specified; assuming /home/understressengineer/programming/ML-From-Scratch
+2024-12-24 10:50:07.293 [info] [Info  - 10:50:07 AM] (4716) Auto-excluding **/node_modules
+2024-12-24 10:50:07.293 [info] [Info  - 10:50:07 AM] (4716) Auto-excluding **/__pycache__
+2024-12-24 10:50:07.295 [info] [Info  - 10:50:07 AM] (4716) Auto-excluding **/.*
+2024-12-24 10:50:07.332 [info] [Info  - 10:50:07 AM] (4716) Assuming Python version 3.10.14.final.0
+2024-12-24 10:50:08.476 [info] [Info  - 10:50:08 AM] (4716) Found 1 source file
+2024-12-24 10:50:08.486 [info] [Info  - 10:50:08 AM] (4716) Starting service instance "ML-From-Scratch"
+2024-12-24 10:50:08.494 [info] [Info  - 10:50:08 AM] (4716) Background analysis(1) root directory: file:///home/understressengineer/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-24 10:50:08.494 [info] [Info  - 10:50:08 AM] (4716) Background analysis(1) started
+2024-12-24 10:50:08.541 [info] [Info  - 10:50:08 AM] (4716) Setting environmentName for service "ML-From-Scratch": "3.10.14 (env_hack venv)"
+2024-12-24 10:50:08.541 [info] [Info  - 10:50:08 AM] (4716) Setting pythonPath for service "ML-From-Scratch": "/home/understressengineer/programming/ML-From-Scratch"
+2024-12-24 10:50:08.541 [info] [Info  - 10:50:08 AM] (4716) No include entries specified; assuming /home/understressengineer/programming/ML-From-Scratch
+2024-12-24 10:50:08.541 [info] [Info  - 10:50:08 AM] (4716) Auto-excluding **/node_modules
+2024-12-24 10:50:08.541 [info] [Info  - 10:50:08 AM] (4716) Auto-excluding **/__pycache__
+2024-12-24 10:50:08.542 [info] [Info  - 10:50:08 AM] (4716) Auto-excluding **/.*
+2024-12-24 10:50:09.293 [info] [Info  - 10:50:09 AM] (4716) Found 1 source file
+2024-12-24 10:50:09.559 [info] [Info  - 10:50:09 AM] (4716) Background analysis(2) root directory: file:///home/understressengineer/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-24 10:50:09.559 [info] [Info  - 10:50:09 AM] (4716) Background analysis(2) started
+2024-12-24 10:50:10.028 [info] [Info  - 10:50:10 AM] (4716) Indexer background runner(3) root directory: file:///home/understressengineer/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-24 10:50:10.028 [info] [Info  - 10:50:10 AM] (4716) Indexing(3) started
+2024-12-24 10:50:10.342 [info] [Info  - 10:50:10 AM] (4716) scanned(3) 1 files over 1 exec env
+2024-12-24 10:50:10.506 [info] [Info  - 10:50:10 AM] (4716) indexed(3) 1 files over 1 exec env
+2024-12-24 10:50:10.520 [info] [Info  - 10:50:10 AM] (4716) Indexing finished(3).
+2024-12-24 10:50:10.567 [info] [Info  - 10:50:10 AM] (4716) Starting service instance "<default>"
+2024-12-24 10:50:10.598 [info] [Info  - 10:50:10 AM] (4716) Setting environmentName for service "<default>": "3.10.14 (env_hack venv)"
+2024-12-24 10:50:10.598 [info] [Info  - 10:50:10 AM] (4716) Setting pythonPath for service "<default>": "/home/understressengineer/programming/env_hack/bin/python"
+2024-12-24 10:50:10.598 [info] [Info  - 10:50:10 AM] (4716) No include entries specified; assuming /<default workspace root>
+2024-12-24 10:50:10.598 [info] [Info  - 10:50:10 AM] (4716) Auto-excluding **/node_modules
+2024-12-24 10:50:10.598 [info] [Info  - 10:50:10 AM] (4716) Auto-excluding **/__pycache__
+2024-12-24 10:50:10.598 [info] [Info  - 10:50:10 AM] (4716) Auto-excluding **/.*
+2024-12-24 10:50:10.630 [info] [Info  - 10:50:10 AM] (4716) Assuming Python version 3.10.14.final.0
+2024-12-24 10:50:10.715 [info] [Error - 10:50:10 AM] (4716) File or directory "/<default workspace root>" does not exist.
+2024-12-24 10:50:10.715 [info] [Info  - 10:50:10 AM] (4716) No source files found.
+2024-12-24 10:50:11.287 [info] [Info  - 10:50:11 AM] (4716) Background analysis(4) root directory: file:///home/understressengineer/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-24 10:50:11.291 [info] [Info  - 10:50:11 AM] (4716) Background analysis(4) started

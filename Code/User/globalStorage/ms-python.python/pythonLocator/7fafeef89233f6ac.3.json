@@ -1,0 +1,12 @@
+{
+  "environment": {
+    "executable": "/usr/sbin/python2",
+    "prefix": "/usr",
+    "version": "2.7.18.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/usr/sbin/python2"
+    ]
+  },
+  "symlinks": []
+}

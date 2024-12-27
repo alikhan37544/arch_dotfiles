@@ -1,0 +1,13 @@
+2024-10-16 22:06:19.538 [info] Started local extension host with pid 52753.
+2024-10-16 22:06:21.358 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-10-16 22:06:24.675 [info] [perf] Render performance baseline is 139ms
+2024-10-16 22:17:01.609 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-10-16 22:17:01.610 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-10-16 22:17:01.614 [info] Unable to reload {0}: {1} file:///usr/lib/code/extensions/theme-defaults/themes/dark_modern.json
+2024-10-16 22:17:01.621 [error] Unable to read file '/usr/lib/code/extensions/theme-seti/icons/vs-seti-icon-theme.json' (Error: Unable to resolve nonexistent file '/usr/lib/code/extensions/theme-seti/icons/vs-seti-icon-theme.json'): Error: Unable to read file '/usr/lib/code/extensions/theme-seti/icons/vs-seti-icon-theme.json' (Error: Unable to resolve nonexistent file '/usr/lib/code/extensions/theme-seti/icons/vs-seti-icon-theme.json')
+    at Git.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3072:69639)
+    at Git.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3072:69464)
+    at async Git.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3072:68832)
+    at async Zst.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3098:2108)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1314:1636
+2024-10-16 22:17:11.705 [error] Error while registering log channel file:///home/understressengineer/.config/Code%20-%20OSS/logs/20241016T220616/window1/fileWatcher.log Timed out while waiting for file to be created

@@ -1,0 +1,2 @@
+2024-12-24 10:50:08.830 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/understressengineer/programming/ML-From-Scratch/.git/.gitstatus.FY3H9p' failed: No such file or directory (EUNKNOWN) (path: /home/understressengineer/programming/ML-From-Scratch)
+2024-12-24 10:50:08.830 [error] [File Watcher (universal)] inotify_add_watch on '/home/understressengineer/programming/ML-From-Scratch/.git/.gitstatus.FY3H9p' failed: No such file or directory

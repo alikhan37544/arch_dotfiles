@@ -1,0 +1,96 @@
+2024-12-13 12:21:24.303 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-13 12:21:24.303 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-13 12:21:24.303 [info] Experiment 'pythonTestAdapter' is active
+2024-12-13 12:21:24.303 [info] Native locator: Refresh started
+2024-12-13 12:21:24.303 [info] Native locator: Refresh started
+2024-12-13 12:21:24.303 [info] > pyenv which python
+2024-12-13 12:21:24.303 [info] cwd: .
+2024-12-13 12:21:24.560 [info] > conda info --json
+2024-12-13 12:21:26.857 [info] Native locator: Refresh finished in 6381 ms
+2024-12-13 12:21:26.863 [info] Python interpreter path: ~/programming/env_hack/bin/python
+2024-12-13 12:21:28.077 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 12:21:28.077 [info] shell: zsh
+2024-12-13 12:21:28.180 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 12:21:28.180 [info] shell: zsh
+2024-12-13 12:21:28.230 [info] Prepending environment variable PATH in collection with /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh:/home/understressengineer/programming/env_hack/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 12:21:28.230 [info] Setting environment variable VIRTUAL_ENV in collection to /home/understressengineer/programming/env_hack {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 12:21:28.230 [info] Prepending environment variable PS1 in collection with (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-13 12:21:28.230 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 12:21:28.231 [info] Send text to terminal: /bin/python /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh/envVars.txt
+2024-12-13 12:21:29.861 [info] Starting Pylance language server.
+2024-12-13 12:21:44.611 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 12:21:44.611 [info] shell: bash
+2024-12-13 12:21:44.629 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 12:21:44.629 [info] shell: bash
+2024-12-13 14:50:20.109 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-13 14:50:20.109 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-13 14:50:20.109 [info] Experiment 'pythonTestAdapter' is active
+2024-12-13 14:50:20.109 [info] Native locator: Refresh started
+2024-12-13 14:50:20.194 [info] > pyenv which python
+2024-12-13 14:50:20.194 [info] cwd: .
+2024-12-13 14:50:20.311 [info] > conda info --json
+2024-12-13 14:50:22.776 [info] Native locator: Refresh finished in 4312 ms
+2024-12-13 14:50:22.781 [info] Python interpreter path: ~/programming/env_hack/bin/python
+2024-12-13 14:50:23.472 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 14:50:23.472 [info] shell: zsh
+2024-12-13 14:50:23.492 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 14:50:23.492 [info] shell: bash
+2024-12-13 14:50:23.512 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 14:50:23.512 [info] shell: bash
+2024-12-13 14:50:23.533 [info] > /usr/bin/python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 14:50:23.533 [info] shell: zsh
+2024-12-13 14:50:23.571 [info] Prepending environment variable PATH in collection with /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh:/home/understressengineer/programming/env_hack/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 14:50:23.571 [info] Setting environment variable VIRTUAL_ENV in collection to /home/understressengineer/programming/env_hack {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 14:50:23.571 [info] Prepending environment variable PS1 in collection with (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-13 14:50:23.571 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 14:50:23.572 [info] Send text to terminal: /usr/bin/python /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh/envVars.txt
+2024-12-13 14:50:24.507 [info] Starting Pylance language server.
+2024-12-13 19:49:28.576 [info] Native locator: Refresh started
+2024-12-13 19:49:29.621 [info] Native locator: Refresh finished in 1039 ms
+2024-12-13 19:49:29.632 [info] Discover tests for workspace name: ML-From-Scratch - uri: /home/understressengineer/programming/ML-From-Scratch
+2024-12-13 19:49:29.632 [info] Discover tests for workspace name: ML-From-Scratch - uri: /home/understressengineer/programming/ML-From-Scratch
+2024-12-13 19:49:30.114 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 19:49:30.114 [info] shell: zsh
+2024-12-13 19:49:30.184 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 19:49:30.184 [info] shell: zsh
+2024-12-13 19:49:30.197 [info] Setting environment variable VSCODE_L10N_BUNDLE_LOCATION in collection to  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:49:30.197 [info] Prepending environment variable PATH in collection with /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh:/home/understressengineer/programming/env_hack/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:49:30.197 [info] Setting environment variable VIRTUAL_ENV in collection to /home/understressengineer/programming/env_hack {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:49:30.197 [info] Prepending environment variable PS1 in collection with (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-13 19:49:30.197 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:49:30.269 [info] Setting environment variable VSCODE_L10N_BUNDLE_LOCATION in collection to  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:49:30.269 [info] Prepending environment variable PATH in collection with /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh:/home/understressengineer/programming/env_hack/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:49:30.269 [info] Setting environment variable VIRTUAL_ENV in collection to /home/understressengineer/programming/env_hack {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:49:30.269 [info] Prepending environment variable PS1 in collection with (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-13 19:49:30.269 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:49:36.048 [info] Native locator: Refresh started
+2024-12-13 19:49:36.048 [info] Native locator: Refresh started
+2024-12-13 19:49:36.850 [info] Native locator: Refresh finished in 803 ms
+2024-12-13 19:54:05.599 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-13 19:54:05.599 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-13 19:54:05.599 [info] Experiment 'pythonTestAdapter' is active
+2024-12-13 19:54:05.599 [info] Native locator: Refresh started
+2024-12-13 19:54:05.858 [info] > pyenv which python
+2024-12-13 19:54:05.858 [info] cwd: .
+2024-12-13 19:54:07.897 [info] > conda info --json
+2024-12-13 19:54:09.386 [info] Python interpreter path: ~/programming/env_hack/bin/python
+2024-12-13 19:54:09.472 [info] Native locator: Refresh finished in 5248 ms
+2024-12-13 19:54:10.468 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 19:54:10.468 [info] shell: zsh
+2024-12-13 19:54:10.542 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 19:54:10.542 [info] shell: zsh
+2024-12-13 19:54:10.588 [info] Prepending environment variable PATH in collection with /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh:/home/understressengineer/programming/env_hack/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:54:10.588 [info] Setting environment variable VIRTUAL_ENV in collection to /home/understressengineer/programming/env_hack {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:54:10.588 [info] Prepending environment variable PS1 in collection with (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-13 19:54:10.588 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 19:54:10.589 [info] Send text to terminal: /bin/python /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh/envVars.txt
+2024-12-13 19:54:11.746 [info] Starting Pylance language server.
+2024-12-14 17:06:53.856 [info] Native locator: Refresh started
+2024-12-14 17:06:54.455 [info] Native locator: Refresh finished in 596 ms
+2024-12-14 17:06:54.458 [info] Discover tests for workspace name: ML-From-Scratch - uri: /home/understressengineer/programming/ML-From-Scratch
+2024-12-14 17:06:55.372 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-14 17:06:55.372 [info] shell: zsh
+2024-12-14 17:06:55.563 [info] Prepending environment variable PATH in collection with /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh:/home/understressengineer/programming/env_hack/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-14 17:06:55.563 [info] Setting environment variable VIRTUAL_ENV in collection to /home/understressengineer/programming/env_hack {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-14 17:06:55.563 [info] Prepending environment variable PS1 in collection with (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-14 17:06:55.563 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}

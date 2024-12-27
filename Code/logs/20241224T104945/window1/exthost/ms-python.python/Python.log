@@ -1,0 +1,19 @@
+2024-12-24 10:50:05.577 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-24 10:50:05.577 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-24 10:50:05.577 [info] Experiment 'pythonTestAdapter' is active
+2024-12-24 10:50:05.577 [info] Native locator: Refresh started
+2024-12-24 10:50:05.577 [info] > pyenv which python
+2024-12-24 10:50:05.577 [info] cwd: .
+2024-12-24 10:50:05.616 [info] > conda info --json
+2024-12-24 10:50:05.736 [info] Python interpreter path: ~/programming/env_hack/bin/python
+2024-12-24 10:50:05.880 [info] Native locator: Refresh finished in 1639 ms
+2024-12-24 10:50:05.926 [info] > . ~/programming/env_hack/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-24 10:50:05.926 [info] shell: zsh
+2024-12-24 10:50:05.970 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-24 10:50:05.970 [info] shell: zsh
+2024-12-24 10:50:06.006 [info] Prepending environment variable PATH in collection with /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh:/home/understressengineer/programming/env_hack/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-24 10:50:06.006 [info] Setting environment variable VIRTUAL_ENV in collection to /home/understressengineer/programming/env_hack {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-24 10:50:06.006 [info] Prepending environment variable PS1 in collection with (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-24 10:50:06.006 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (env_hack)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-24 10:50:06.007 [info] Send text to terminal: /bin/python /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/zsh/envVars.txt
+2024-12-24 10:50:07.226 [info] Starting Pylance language server.

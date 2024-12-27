@@ -1,0 +1,9 @@
+Visual Studio Code (1.96.0, undefined, desktop)
+Jupyter Extension Version: 2024.11.0.
+Python Extension Version: 2024.22.0.
+Pylance Extension Version: 2024.12.1.
+Platform: linux (x64).
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2024.11.0
+Workspace folder ~/programming/ML-From-Scratch, Home = /home/understressengineer
+17:06:54.447 [warn] Disposing old controller startUsingPythonInterpreter:'.jvsc74a57bd03a4796a2f73210d7708aa4b561c82bdd4bf9344ec258a5656c605457628eeb33./home/~/programming/env_hack/python./home/~/programming/env_hack/python.-m#ipykernel_launcher' for view = 'jupyter-notebook'
+17:06:54.449 [warn] Disposing old controller startUsingPythonInterpreter:'.jvsc74a57bd03a4796a2f73210d7708aa4b561c82bdd4bf9344ec258a5656c605457628eeb33./home/~/programming/env_hack/python./home/~/programming/env_hack/python.-m#ipykernel_launcher (Interactive)' for view = 'interactive'

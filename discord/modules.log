@@ -1,0 +1,479 @@
+2024-10-30T12:31:01.353Z [Modules] Modules initializing
+2024-10-30T12:31:01.353Z [Modules] Distribution: remote
+2024-10-30T12:31:01.354Z [Modules] Host updates: enabled
+2024-10-30T12:31:01.354Z [Modules] Module updates: enabled
+2024-10-30T12:31:01.354Z [Modules] Module install path: /home/understressengineer/.config/discord/0.0.72/modules
+2024-10-30T12:31:01.354Z [Modules] Module installed file path: /home/understressengineer/.config/discord/0.0.72/modules/installed.json
+2024-10-30T12:31:01.354Z [Modules] Module download path: /home/understressengineer/.config/discord/0.0.72/modules/pending
+2024-10-30T12:31:01.692Z [Modules] Bootstrapping...
+2024-10-30T12:31:01.693Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-10-30T12:31:01.697Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-10-30T12:31:01.698Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-10-30T12:31:01.700Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-10-30T12:31:01.700Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-10-30T12:31:01.701Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-10-30T12:31:01.702Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-10-30T12:31:01.703Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-10-30T12:31:01.703Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-10-30T12:31:01.705Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-10-30T12:31:01.705Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-10-30T12:31:01.706Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-10-30T12:31:01.707Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-10-30T12:31:01.707Z [Modules] Checking for host updates.
+2024-10-30T12:31:02.306Z [Modules] Host is up to date.
+2024-10-30T12:31:02.308Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-10-30T12:31:02.392Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-10-30T12:31:02.392Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-10-30T12:31:02.393Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-10-30T12:31:02.393Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-10-30T12:31:02.393Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-10-30T12:31:02.393Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-10-30T12:31:02.395Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-10-30T12:31:02.395Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip
+2024-10-30T12:31:03.125Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 1%
+2024-10-30T12:31:03.133Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 2%
+2024-10-30T12:31:03.146Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 3%
+2024-10-30T12:31:03.154Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 4%
+2024-10-30T12:31:03.160Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 5%
+2024-10-30T12:31:03.166Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 6%
+2024-10-30T12:31:03.175Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 7%
+2024-10-30T12:31:03.184Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 8%
+2024-10-30T12:31:03.186Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 9%
+2024-10-30T12:31:03.192Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 12%
+2024-10-30T12:31:03.197Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 13%
+2024-10-30T12:31:03.204Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 14%
+2024-10-30T12:31:03.215Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 17%
+2024-10-30T12:31:03.222Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 18%
+2024-10-30T12:31:03.225Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 19%
+2024-10-30T12:31:03.228Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 21%
+2024-10-30T12:31:03.231Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 27%
+2024-10-30T12:31:03.242Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 28%
+2024-10-30T12:31:03.245Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 29%
+2024-10-30T12:31:03.249Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 32%
+2024-10-30T12:31:03.252Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 38%
+2024-10-30T12:31:03.256Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 39%
+2024-10-30T12:31:03.259Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 44%
+2024-10-30T12:31:03.262Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 47%
+2024-10-30T12:31:03.267Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 48%
+2024-10-30T12:31:03.271Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 49%
+2024-10-30T12:31:03.278Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 55%
+2024-10-30T12:31:03.281Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 57%
+2024-10-30T12:31:03.289Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 60%
+2024-10-30T12:31:03.294Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 65%
+2024-10-30T12:31:03.298Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 70%
+2024-10-30T12:31:03.305Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 73%
+2024-10-30T12:31:03.308Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 77%
+2024-10-30T12:31:03.311Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 88%
+2024-10-30T12:31:03.314Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 91%
+2024-10-30T12:31:03.317Z [Modules] Streaming discord_desktop_core@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 100%
+2024-10-30T12:31:03.325Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-10-30T12:31:03.325Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip
+2024-10-30T12:31:04.378Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 3%
+2024-10-30T12:31:04.381Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 12%
+2024-10-30T12:31:04.387Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 24%
+2024-10-30T12:31:04.393Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 43%
+2024-10-30T12:31:04.401Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 69%
+2024-10-30T12:31:04.437Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 71%
+2024-10-30T12:31:04.443Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 74%
+2024-10-30T12:31:04.447Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 80%
+2024-10-30T12:31:04.451Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 87%
+2024-10-30T12:31:04.455Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 90%
+2024-10-30T12:31:04.459Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 96%
+2024-10-30T12:31:04.462Z [Modules] Streaming discord_erlpack@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 100%
+2024-10-30T12:31:04.468Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-10-30T12:31:04.468Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip
+2024-10-30T12:31:05.097Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 1%
+2024-10-30T12:31:05.100Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 2%
+2024-10-30T12:31:05.103Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 3%
+2024-10-30T12:31:05.110Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 4%
+2024-10-30T12:31:05.112Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 5%
+2024-10-30T12:31:05.115Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 7%
+2024-10-30T12:31:05.120Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 8%
+2024-10-30T12:31:05.124Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 10%
+2024-10-30T12:31:05.128Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 11%
+2024-10-30T12:31:05.399Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 12%
+2024-10-30T12:31:05.402Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 13%
+2024-10-30T12:31:05.407Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 15%
+2024-10-30T12:31:05.412Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 16%
+2024-10-30T12:31:05.417Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 17%
+2024-10-30T12:31:05.422Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 20%
+2024-10-30T12:31:05.427Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 22%
+2024-10-30T12:31:05.431Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 24%
+2024-10-30T12:31:05.435Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 27%
+2024-10-30T12:31:05.438Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 28%
+2024-10-30T12:31:05.460Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 29%
+2024-10-30T12:31:05.463Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 30%
+2024-10-30T12:31:05.471Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 31%
+2024-10-30T12:31:05.485Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 32%
+2024-10-30T12:31:05.492Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 33%
+2024-10-30T12:31:05.496Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 35%
+2024-10-30T12:31:05.503Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 36%
+2024-10-30T12:31:05.507Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 37%
+2024-10-30T12:31:05.511Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 39%
+2024-10-30T12:31:05.513Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 40%
+2024-10-30T12:31:05.516Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 41%
+2024-10-30T12:31:05.520Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 44%
+2024-10-30T12:31:05.526Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 48%
+2024-10-30T12:31:05.534Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 49%
+2024-10-30T12:31:05.545Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 50%
+2024-10-30T12:31:05.550Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 51%
+2024-10-30T12:31:05.553Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 52%
+2024-10-30T12:31:05.556Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 53%
+2024-10-30T12:31:05.561Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 55%
+2024-10-30T12:31:05.564Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 57%
+2024-10-30T12:31:05.569Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 60%
+2024-10-30T12:31:05.579Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 61%
+2024-10-30T12:31:05.584Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 62%
+2024-10-30T12:31:05.593Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 63%
+2024-10-30T12:31:05.595Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 64%
+2024-10-30T12:31:05.600Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 65%
+2024-10-30T12:31:05.604Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 66%
+2024-10-30T12:31:05.609Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 67%
+2024-10-30T12:31:05.613Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 68%
+2024-10-30T12:31:05.616Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 69%
+2024-10-30T12:31:05.622Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 70%
+2024-10-30T12:31:05.626Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 71%
+2024-10-30T12:31:05.629Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 72%
+2024-10-30T12:31:05.632Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 73%
+2024-10-30T12:31:05.636Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 77%
+2024-10-30T12:31:05.641Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 80%
+2024-10-30T12:31:05.654Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 81%
+2024-10-30T12:31:05.659Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 82%
+2024-10-30T12:31:05.662Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 83%
+2024-10-30T12:31:05.666Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 84%
+2024-10-30T12:31:05.669Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 85%
+2024-10-30T12:31:05.673Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 86%
+2024-10-30T12:31:05.679Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 87%
+2024-10-30T12:31:05.685Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 88%
+2024-10-30T12:31:05.698Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 90%
+2024-10-30T12:31:05.704Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 91%
+2024-10-30T12:31:05.709Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 93%
+2024-10-30T12:31:05.711Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 94%
+2024-10-30T12:31:05.714Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 96%
+2024-10-30T12:31:05.716Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 98%
+2024-10-30T12:31:05.719Z [Modules] Streaming discord_spellcheck@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 100%
+2024-10-30T12:31:05.724Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-10-30T12:31:05.725Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip
+2024-10-30T12:31:06.281Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 1%
+2024-10-30T12:31:06.288Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 2%
+2024-10-30T12:31:06.299Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 3%
+2024-10-30T12:31:06.309Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 4%
+2024-10-30T12:31:06.312Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 6%
+2024-10-30T12:31:06.314Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 8%
+2024-10-30T12:31:06.318Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 9%
+2024-10-30T12:31:06.320Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 10%
+2024-10-30T12:31:06.324Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 12%
+2024-10-30T12:31:06.330Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 14%
+2024-10-30T12:31:06.332Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 15%
+2024-10-30T12:31:06.342Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 17%
+2024-10-30T12:31:06.346Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 18%
+2024-10-30T12:31:06.349Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 21%
+2024-10-30T12:31:06.352Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 24%
+2024-10-30T12:31:06.356Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 26%
+2024-10-30T12:31:06.361Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 29%
+2024-10-30T12:31:06.364Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 32%
+2024-10-30T12:31:06.369Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 35%
+2024-10-30T12:31:06.374Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 39%
+2024-10-30T12:31:06.378Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 45%
+2024-10-30T12:31:06.381Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 52%
+2024-10-30T12:31:06.400Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 62%
+2024-10-30T12:31:06.404Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 67%
+2024-10-30T12:31:06.413Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 77%
+2024-10-30T12:31:06.417Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 81%
+2024-10-30T12:31:06.423Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 82%
+2024-10-30T12:31:06.428Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 83%
+2024-10-30T12:31:06.431Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 87%
+2024-10-30T12:31:06.446Z [Modules] Streaming discord_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 100%
+2024-10-30T12:31:06.450Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-10-30T12:31:06.451Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip
+2024-10-30T12:31:07.104Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 1%
+2024-10-30T12:31:07.128Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 2%
+2024-10-30T12:31:07.137Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 3%
+2024-10-30T12:31:07.147Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 4%
+2024-10-30T12:31:07.149Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 5%
+2024-10-30T12:31:07.156Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 6%
+2024-10-30T12:31:07.161Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 7%
+2024-10-30T12:31:07.164Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 8%
+2024-10-30T12:31:07.268Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 9%
+2024-10-30T12:31:07.279Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 10%
+2024-10-30T12:31:07.280Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 11%
+2024-10-30T12:31:07.290Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 12%
+2024-10-30T12:31:07.295Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 13%
+2024-10-30T12:31:07.332Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 14%
+2024-10-30T12:31:07.344Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 15%
+2024-10-30T12:31:07.350Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 16%
+2024-10-30T12:31:07.369Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 17%
+2024-10-30T12:31:07.373Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 18%
+2024-10-30T12:31:07.384Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 19%
+2024-10-30T12:31:07.388Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 20%
+2024-10-30T12:31:07.396Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 21%
+2024-10-30T12:31:07.407Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 22%
+2024-10-30T12:31:07.411Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 23%
+2024-10-30T12:31:07.423Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 24%
+2024-10-30T12:31:07.428Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 25%
+2024-10-30T12:31:07.433Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 26%
+2024-10-30T12:31:07.437Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 27%
+2024-10-30T12:31:07.440Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 28%
+2024-10-30T12:31:07.447Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 29%
+2024-10-30T12:31:07.455Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 30%
+2024-10-30T12:31:07.462Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 31%
+2024-10-30T12:31:07.469Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 32%
+2024-10-30T12:31:07.473Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 33%
+2024-10-30T12:31:07.481Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 34%
+2024-10-30T12:31:07.499Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 35%
+2024-10-30T12:31:07.505Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 37%
+2024-10-30T12:31:07.529Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 40%
+2024-10-30T12:31:07.533Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 42%
+2024-10-30T12:31:07.542Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 43%
+2024-10-30T12:31:07.545Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 44%
+2024-10-30T12:31:07.548Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 45%
+2024-10-30T12:31:07.553Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 46%
+2024-10-30T12:31:07.558Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 47%
+2024-10-30T12:31:07.566Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 48%
+2024-10-30T12:31:07.577Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 49%
+2024-10-30T12:31:07.587Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 50%
+2024-10-30T12:31:07.630Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 51%
+2024-10-30T12:31:07.661Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 52%
+2024-10-30T12:31:07.667Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 53%
+2024-10-30T12:31:07.670Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 54%
+2024-10-30T12:31:07.675Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 55%
+2024-10-30T12:31:07.679Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 56%
+2024-10-30T12:31:07.681Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 57%
+2024-10-30T12:31:07.685Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 58%
+2024-10-30T12:31:07.706Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 59%
+2024-10-30T12:31:07.712Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 60%
+2024-10-30T12:31:07.715Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 61%
+2024-10-30T12:31:07.732Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 62%
+2024-10-30T12:31:07.744Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 63%
+2024-10-30T12:31:07.750Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 64%
+2024-10-30T12:31:07.755Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 65%
+2024-10-30T12:31:07.761Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 66%
+2024-10-30T12:31:07.765Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 67%
+2024-10-30T12:31:07.767Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 68%
+2024-10-30T12:31:07.769Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 69%
+2024-10-30T12:31:07.793Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 70%
+2024-10-30T12:31:07.806Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 71%
+2024-10-30T12:31:07.850Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 72%
+2024-10-30T12:31:07.875Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 73%
+2024-10-30T12:31:07.880Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 74%
+2024-10-30T12:31:07.889Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 75%
+2024-10-30T12:31:07.894Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 76%
+2024-10-30T12:31:07.900Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 77%
+2024-10-30T12:31:07.903Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 78%
+2024-10-30T12:31:07.934Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 79%
+2024-10-30T12:31:07.942Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 80%
+2024-10-30T12:31:07.949Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 81%
+2024-10-30T12:31:07.955Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 82%
+2024-10-30T12:31:07.963Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 83%
+2024-10-30T12:31:07.969Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 84%
+2024-10-30T12:31:07.973Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 85%
+2024-10-30T12:31:07.979Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 86%
+2024-10-30T12:31:08.004Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 87%
+2024-10-30T12:31:08.009Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 88%
+2024-10-30T12:31:08.016Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 89%
+2024-10-30T12:31:08.020Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 90%
+2024-10-30T12:31:08.025Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 91%
+2024-10-30T12:31:08.029Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 92%
+2024-10-30T12:31:08.031Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 93%
+2024-10-30T12:31:08.039Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 94%
+2024-10-30T12:31:08.052Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 95%
+2024-10-30T12:31:08.059Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 96%
+2024-10-30T12:31:08.063Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 97%
+2024-10-30T12:31:08.072Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 98%
+2024-10-30T12:31:08.079Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 99%
+2024-10-30T12:31:08.085Z [Modules] Streaming discord_voice@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 100%
+2024-10-30T12:31:08.090Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-10-30T12:31:08.091Z [Modules] Streaming discord_zstd@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip
+2024-10-30T12:31:08.773Z [Modules] Streaming discord_zstd@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 12%
+2024-10-30T12:31:08.782Z [Modules] Streaming discord_zstd@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 28%
+2024-10-30T12:31:08.784Z [Modules] Streaming discord_zstd@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 36%
+2024-10-30T12:31:08.788Z [Modules] Streaming discord_zstd@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 56%
+2024-10-30T12:31:08.791Z [Modules] Streaming discord_zstd@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 72%
+2024-10-30T12:31:08.794Z [Modules] Streaming discord_zstd@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 88%
+2024-10-30T12:31:08.796Z [Modules] Streaming discord_zstd@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 100%
+2024-10-30T12:31:08.800Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-10-30T12:31:08.801Z [Modules] Installing updates...
+2024-10-30T12:31:08.801Z [Modules] Installing discord_desktop_core@1 from /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip
+2024-10-30T12:31:09.269Z [Modules] Installing discord_erlpack@1 from /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip
+2024-10-30T12:31:09.596Z [Modules] Installing discord_spellcheck@1 from /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip
+2024-10-30T12:31:11.826Z [Modules] Installing discord_utils@1 from /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_utils-1.zip
+2024-10-30T12:31:12.552Z [Modules] Installing discord_voice@1 from /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_voice-1.zip
+2024-10-30T12:31:15.497Z [Modules] Installing discord_zstd@1 from /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip
+2024-10-30T12:31:15.576Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-10-30T12:31:15.577Z [Modules] Checking for host updates.
+2024-10-30T12:31:16.260Z [Modules] Host is up to date.
+2024-10-30T12:31:16.260Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-10-30T12:31:16.270Z [Modules] No module updates available.
+2024-10-30T12:31:18.870Z [Modules] Starting to install discord_krisp...
+2024-10-30T12:31:18.870Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-10-30T12:31:18.871Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip
+2024-10-30T12:31:18.898Z [Modules] Starting to install discord_game_utils...
+2024-10-30T12:31:19.418Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 1%
+2024-10-30T12:31:19.420Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 2%
+2024-10-30T12:31:19.426Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 3%
+2024-10-30T12:31:19.429Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 4%
+2024-10-30T12:31:19.440Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 6%
+2024-10-30T12:31:19.461Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 7%
+2024-10-30T12:31:19.473Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 8%
+2024-10-30T12:31:19.479Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 9%
+2024-10-30T12:31:19.506Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 10%
+2024-10-30T12:31:19.543Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 11%
+2024-10-30T12:31:19.624Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 12%
+2024-10-30T12:31:19.626Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 13%
+2024-10-30T12:31:19.638Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 14%
+2024-10-30T12:31:19.668Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 15%
+2024-10-30T12:31:19.672Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 16%
+2024-10-30T12:31:19.735Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 18%
+2024-10-30T12:31:19.736Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 19%
+2024-10-30T12:31:19.738Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 20%
+2024-10-30T12:31:19.740Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 21%
+2024-10-30T12:31:19.742Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 22%
+2024-10-30T12:31:19.743Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 23%
+2024-10-30T12:31:19.765Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 24%
+2024-10-30T12:31:19.789Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 25%
+2024-10-30T12:31:19.790Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 26%
+2024-10-30T12:31:19.796Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 27%
+2024-10-30T12:31:19.806Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 28%
+2024-10-30T12:31:19.851Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 29%
+2024-10-30T12:31:19.853Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 30%
+2024-10-30T12:31:19.854Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 31%
+2024-10-30T12:31:19.855Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 32%
+2024-10-30T12:31:19.923Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 33%
+2024-10-30T12:31:19.992Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 34%
+2024-10-30T12:31:19.995Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 35%
+2024-10-30T12:31:19.998Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 36%
+2024-10-30T12:31:20.001Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 37%
+2024-10-30T12:31:20.003Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 38%
+2024-10-30T12:31:20.005Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 39%
+2024-10-30T12:31:20.007Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 40%
+2024-10-30T12:31:20.009Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 41%
+2024-10-30T12:31:20.045Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 42%
+2024-10-30T12:31:20.059Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 43%
+2024-10-30T12:31:20.075Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 44%
+2024-10-30T12:31:20.081Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 45%
+2024-10-30T12:31:20.083Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 46%
+2024-10-30T12:31:20.103Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 47%
+2024-10-30T12:31:20.115Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 48%
+2024-10-30T12:31:20.117Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 49%
+2024-10-30T12:31:20.119Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 50%
+2024-10-30T12:31:20.248Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 51%
+2024-10-30T12:31:20.315Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 52%
+2024-10-30T12:31:20.318Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 53%
+2024-10-30T12:31:20.321Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 54%
+2024-10-30T12:31:20.325Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 55%
+2024-10-30T12:31:20.327Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 56%
+2024-10-30T12:31:20.329Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 57%
+2024-10-30T12:31:20.331Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 58%
+2024-10-30T12:31:20.400Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 59%
+2024-10-30T12:31:20.424Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 60%
+2024-10-30T12:31:20.428Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 61%
+2024-10-30T12:31:20.436Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 62%
+2024-10-30T12:31:20.451Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 63%
+2024-10-30T12:31:20.456Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 64%
+2024-10-30T12:31:20.459Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 65%
+2024-10-30T12:31:20.461Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 66%
+2024-10-30T12:31:20.463Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 67%
+2024-10-30T12:31:20.537Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 68%
+2024-10-30T12:31:20.542Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 69%
+2024-10-30T12:31:20.545Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 70%
+2024-10-30T12:31:20.548Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 71%
+2024-10-30T12:31:20.551Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 72%
+2024-10-30T12:31:20.566Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 73%
+2024-10-30T12:31:20.720Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 74%
+2024-10-30T12:31:20.730Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 75%
+2024-10-30T12:31:20.743Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 76%
+2024-10-30T12:31:20.754Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 77%
+2024-10-30T12:31:20.760Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 78%
+2024-10-30T12:31:20.768Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 79%
+2024-10-30T12:31:20.771Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 80%
+2024-10-30T12:31:20.835Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 81%
+2024-10-30T12:31:20.840Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 82%
+2024-10-30T12:31:20.843Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 83%
+2024-10-30T12:31:20.847Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 84%
+2024-10-30T12:31:20.850Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 85%
+2024-10-30T12:31:20.941Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 86%
+2024-10-30T12:31:20.945Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 87%
+2024-10-30T12:31:20.948Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 88%
+2024-10-30T12:31:20.952Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 89%
+2024-10-30T12:31:20.955Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 90%
+2024-10-30T12:31:20.957Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 91%
+2024-10-30T12:31:20.959Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 92%
+2024-10-30T12:31:20.993Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 93%
+2024-10-30T12:31:20.996Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 94%
+2024-10-30T12:31:21.005Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 95%
+2024-10-30T12:31:21.014Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 96%
+2024-10-30T12:31:21.024Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 97%
+2024-10-30T12:31:21.032Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 98%
+2024-10-30T12:31:21.044Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 99%
+2024-10-30T12:31:21.049Z [Modules] Streaming discord_krisp@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 100%
+2024-10-30T12:31:21.053Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-10-30T12:31:21.053Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip
+2024-10-30T12:31:21.053Z [Modules] Installing discord_krisp@1 from /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip
+2024-10-30T12:31:21.361Z [Modules] Checking for host updates.
+2024-10-30T12:31:21.562Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 2%
+2024-10-30T12:31:21.566Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 5%
+2024-10-30T12:31:21.570Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 6%
+2024-10-30T12:31:21.583Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 8%
+2024-10-30T12:31:21.585Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 10%
+2024-10-30T12:31:21.587Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 12%
+2024-10-30T12:31:21.589Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 14%
+2024-10-30T12:31:21.592Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 17%
+2024-10-30T12:31:21.593Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 19%
+2024-10-30T12:31:21.595Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 21%
+2024-10-30T12:31:21.598Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 23%
+2024-10-30T12:31:21.598Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 26%
+2024-10-30T12:31:21.599Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 27%
+2024-10-30T12:31:21.604Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 30%
+2024-10-30T12:31:21.604Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 33%
+2024-10-30T12:31:21.605Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 37%
+2024-10-30T12:31:21.606Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 40%
+2024-10-30T12:31:21.607Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 41%
+2024-10-30T12:31:21.609Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 43%
+2024-10-30T12:31:21.611Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 45%
+2024-10-30T12:31:21.612Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 49%
+2024-10-30T12:31:21.613Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 51%
+2024-10-30T12:31:21.614Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 54%
+2024-10-30T12:31:21.615Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 56%
+2024-10-30T12:31:21.616Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 57%
+2024-10-30T12:31:21.621Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 62%
+2024-10-30T12:31:21.625Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 64%
+2024-10-30T12:31:21.625Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 68%
+2024-10-30T12:31:21.628Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 70%
+2024-10-30T12:31:21.629Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 73%
+2024-10-30T12:31:21.639Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 75%
+2024-10-30T12:31:21.688Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 79%
+2024-10-30T12:31:21.688Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 82%
+2024-10-30T12:31:21.693Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 84%
+2024-10-30T12:31:21.694Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 87%
+2024-10-30T12:31:21.696Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 90%
+2024-10-30T12:31:21.697Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 92%
+2024-10-30T12:31:21.702Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 93%
+2024-10-30T12:31:21.704Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 96%
+2024-10-30T12:31:21.706Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 98%
+2024-10-30T12:31:21.708Z [Modules] Streaming discord_game_utils@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 100%
+2024-10-30T12:31:21.709Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2024-10-30T12:31:21.719Z [Modules] Starting to install discord_rpc...
+2024-10-30T12:31:21.719Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-10-30T12:31:21.719Z [Modules] Streaming discord_rpc@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_rpc-1.zip
+2024-10-30T12:31:21.765Z [Modules] Host is up to date.
+2024-10-30T12:31:21.765Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-10-30T12:31:21.771Z [Modules] No module updates available.
+2024-10-30T12:31:22.017Z [Modules] Installing discord_game_utils@1 from /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip
+2024-10-30T12:31:22.211Z [Modules] Streaming discord_rpc@1 to /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_rpc-1.zip: 100%
+2024-10-30T12:31:22.213Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2024-10-30T12:31:22.218Z [Modules] Installing discord_rpc@1 from /home/understressengineer/.config/discord/0.0.72/modules/pending/discord_rpc-1.zip
+2024-10-30T12:31:22.247Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2024-10-30T13:52:39.999Z [Modules] Checking for host updates.
+2024-10-30T13:52:45.669Z [Modules] Host is up to date.
+2024-10-30T13:52:45.670Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-10-30T13:52:45.728Z [Modules] No module updates available.
+2024-10-30T14:52:40.457Z [Modules] Checking for host updates.
+2024-10-30T14:52:46.049Z [Modules] Host is up to date.
+2024-10-30T14:52:46.049Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-10-30T14:52:46.107Z [Modules] No module updates available.
+2024-10-30T15:52:40.457Z [Modules] Checking for host updates.
+2024-10-30T15:52:41.024Z [Modules] Host is up to date.
+2024-10-30T15:52:41.024Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-10-30T15:52:41.086Z [Modules] No module updates available.
+2024-10-31T06:01:00.629Z [Modules] Checking for host updates.
+2024-10-31T06:01:00.684Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com

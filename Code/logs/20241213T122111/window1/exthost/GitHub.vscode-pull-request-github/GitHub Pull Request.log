@@ -1,0 +1,41 @@
+2024-12-13 12:21:22.162 [warning] /home/understressengineer/.ssh/config: ENOENT: no such file or directory, open '/home/understressengineer/.ssh/config'
+2024-12-13 12:21:22.162 [info] Activation> Extension version: 0.102.0
+2024-12-13 12:21:24.800 [info] Looking for git repository
+2024-12-13 12:21:24.800 [info] Found 0 repositories during activation
+2024-12-13 12:21:24.800 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-13 12:21:24.808 [info] Registering git provider
+2024-12-13 12:21:24.808 [info] Review+0> Validate state in progress
+2024-12-13 12:21:24.808 [info] Review+0> Validating state...
+2024-12-13 12:21:24.940 [info] Found GitHub remote for folder /home/understressengineer/programming/ML-From-Scratch
+2024-12-13 12:21:25.622 [info] Trying to use globalState for assignableUsers.
+2024-12-13 12:21:25.845 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-12-13 12:21:26.108 [info] Using globalState assignableUsers for 1.
+2024-12-13 12:21:26.712 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-12-13 12:21:48.189 [info] Repo state for file:///home/understressengineer/programming/ML-From-Scratch changed.
+2024-12-13 12:21:48.189 [info] Repo file:///home/understressengineer/programming/ML-From-Scratch has already been setup.
+2024-12-13 14:50:20.109 [warning] /home/understressengineer/.ssh/config: ENOENT: no such file or directory, open '/home/understressengineer/.ssh/config'
+2024-12-13 14:50:20.109 [info] Activation> Extension version: 0.102.0
+2024-12-13 14:50:21.781 [info] Looking for git repository
+2024-12-13 14:50:21.781 [info] Found 0 repositories during activation
+2024-12-13 14:50:21.781 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-13 14:50:21.785 [info] Registering git provider
+2024-12-13 14:50:21.785 [info] Review+0> Validate state in progress
+2024-12-13 14:50:21.785 [info] Review+0> Validating state...
+2024-12-13 14:50:21.812 [info] Found GitHub remote for folder /home/understressengineer/programming/ML-From-Scratch
+2024-12-13 14:50:22.570 [info] Trying to use globalState for assignableUsers.
+2024-12-13 14:50:22.662 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-12-13 14:50:23.424 [info] Using globalState assignableUsers for 1.
+2024-12-13 14:50:23.445 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-12-13 19:54:04.777 [warning] /home/understressengineer/.ssh/config: ENOENT: no such file or directory, open '/home/understressengineer/.ssh/config'
+2024-12-13 19:54:04.777 [info] Activation> Extension version: 0.102.0
+2024-12-13 19:54:07.996 [info] Looking for git repository
+2024-12-13 19:54:07.996 [info] Found 0 repositories during activation
+2024-12-13 19:54:07.996 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-13 19:54:08.003 [info] Registering git provider
+2024-12-13 19:54:08.003 [info] Review+0> Validate state in progress
+2024-12-13 19:54:08.003 [info] Review+0> Validating state...
+2024-12-13 19:54:08.028 [info] Found GitHub remote for folder /home/understressengineer/programming/ML-From-Scratch
+2024-12-13 19:54:09.115 [info] Trying to use globalState for assignableUsers.
+2024-12-13 19:54:09.247 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-12-13 19:54:09.685 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-12-13 19:54:10.431 [info] Using globalState assignableUsers for 1.

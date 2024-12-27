@@ -1,0 +1,162 @@
+2024-12-13 12:21:24.303 [info] Using the Electron fetcher.
+2024-12-13 12:21:24.303 [info] Initializing Git extension service.
+2024-12-13 12:21:24.303 [info] Successfully activated the vscode.git extension.
+2024-12-13 12:21:24.303 [info] Enablement state of the vscode.git extension: true.
+2024-12-13 12:21:24.303 [info] Successfully registered Git commit message provider.
+2024-12-13 12:21:25.101 [info] Logged in as alikhan37544
+2024-12-13 12:21:26.137 [info] Got Copilot token for alikhan37544
+2024-12-13 12:21:28.113 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 12:21:28.148 [info] Registering default platform agent...
+2024-12-13 12:21:28.158 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2024-12-13 12:21:28.159 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-12-13 12:21:28.159 [info] Successfully registered GitHub PR title and description provider.
+2024-12-13 12:21:29.391 [info] Fetched model metadata in 3236ms 18996b61-5063-4aba-8950-4120aa85edcd
+2024-12-13 12:21:29.395 [info] activationBlocker from 'languageModelAccess' took for 7200ms
+2024-12-13 12:36:31.723 [info] Fetched model metadata in 1309ms 5216f56d-4ae5-49f6-b088-604981b1fe2a
+2024-12-13 12:46:26.649 [info] Logged in as alikhan37544
+2024-12-13 12:46:27.594 [info] Got Copilot token for alikhan37544
+2024-12-13 12:46:27.635 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 14:50:20.194 [info] Using the Electron fetcher.
+2024-12-13 14:50:20.194 [info] Initializing Git extension service.
+2024-12-13 14:50:20.194 [info] Successfully activated the vscode.git extension.
+2024-12-13 14:50:20.194 [info] Enablement state of the vscode.git extension: true.
+2024-12-13 14:50:20.194 [info] Successfully registered Git commit message provider.
+2024-12-13 14:50:21.914 [info] Logged in as alikhan37544
+2024-12-13 14:50:22.688 [info] Got Copilot token for alikhan37544
+2024-12-13 14:50:23.628 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 14:50:23.657 [info] Registering default platform agent...
+2024-12-13 14:50:23.657 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2024-12-13 14:50:23.657 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-12-13 14:50:23.657 [info] Successfully registered GitHub PR title and description provider.
+2024-12-13 14:50:24.832 [info] Fetched model metadata in 2136ms e65d44e8-d7b0-4d08-9a12-1562f117332d
+2024-12-13 14:50:24.834 [info] activationBlocker from 'languageModelAccess' took for 4478ms
+2024-12-13 15:05:26.679 [info] Fetched model metadata in 1471ms 22c703e1-6042-41b9-8033-bc2c722c2815
+2024-12-13 15:15:22.691 [info] Logged in as alikhan37544
+2024-12-13 15:15:23.501 [info] Got Copilot token for alikhan37544
+2024-12-13 15:15:23.507 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 15:30:25.064 [info] Fetched model metadata in 1550ms 255f80ce-3134-45d3-8156-a635ccf1bfc4
+2024-12-13 15:40:23.505 [info] Logged in as alikhan37544
+2024-12-13 15:40:24.356 [info] Got Copilot token for alikhan37544
+2024-12-13 15:40:24.362 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 15:55:25.929 [info] Fetched model metadata in 1561ms 9d9c9ff4-e873-46af-b849-c4123c5a639e
+2024-12-13 16:05:24.373 [info] Logged in as alikhan37544
+2024-12-13 16:05:25.057 [info] Got Copilot token for alikhan37544
+2024-12-13 16:05:25.085 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 16:35:53.190 [info] Logged in as alikhan37544
+2024-12-13 16:35:54.148 [info] Got Copilot token for alikhan37544
+2024-12-13 16:35:54.180 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 16:35:55.538 [info] Fetched model metadata in 1382ms b0a1059e-e885-429a-994d-8739ff8d8464
+2024-12-13 16:52:10.400 [info] Fetched model metadata in 1438ms 06f05939-5b7c-463e-a1e6-169ecd4869ee
+2024-12-13 19:47:26.447 [info] Logged in as alikhan37544
+2024-12-13 19:47:27.490 [info] Got Copilot token for alikhan37544
+2024-12-13 19:47:27.517 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 19:47:28.926 [info] Fetched model metadata in 1392ms b4f67835-3211-46f5-9f67-96f12d51393e
+2024-12-13 19:54:05.599 [info] Using the Electron fetcher.
+2024-12-13 19:54:05.599 [info] Initializing Git extension service.
+2024-12-13 19:54:05.599 [info] Successfully activated the vscode.git extension.
+2024-12-13 19:54:05.599 [info] Enablement state of the vscode.git extension: true.
+2024-12-13 19:54:05.599 [info] Successfully registered Git commit message provider.
+2024-12-13 19:54:08.068 [info] Logged in as alikhan37544
+2024-12-13 19:54:08.911 [info] Got Copilot token for alikhan37544
+2024-12-13 19:54:10.496 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 19:54:10.523 [info] Registering default platform agent...
+2024-12-13 19:54:10.524 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2024-12-13 19:54:10.524 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-12-13 19:54:10.524 [info] Successfully registered GitHub PR title and description provider.
+2024-12-13 19:54:11.891 [info] Fetched model metadata in 2964ms d28949e1-22e4-40f1-966c-a153cc09caed
+2024-12-13 19:54:11.898 [info] activationBlocker from 'languageModelAccess' took for 6262ms
+2024-12-13 20:09:14.097 [info] Fetched model metadata in 1631ms 09951d76-3a45-4221-a0e0-79ac8f0eae5c
+2024-12-13 20:19:08.928 [info] Logged in as alikhan37544
+2024-12-13 20:19:09.984 [info] Got Copilot token for alikhan37544
+2024-12-13 20:19:10.018 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 20:40:27.273 [info] Fetched model metadata in 1517ms 83aa38cd-0e74-4fb5-9142-ee1fa9cf5101
+2024-12-13 20:50:25.715 [info] Logged in as alikhan37544
+2024-12-13 20:50:26.583 [info] Got Copilot token for alikhan37544
+2024-12-13 20:50:26.611 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-13 21:05:29.002 [info] Fetched model metadata in 1493ms 02ae7640-def5-4052-8598-36bc563f5f70
+2024-12-14 09:12:07.763 [info] Logged in as alikhan37544
+2024-12-14 09:12:08.445 [info] Got Copilot token for alikhan37544
+2024-12-14 09:12:08.460 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 09:12:09.792 [info] Fetched model metadata in 1327ms d1e254ff-691b-454c-b83a-50a48c6fdaa7
+2024-12-14 09:27:11.536 [info] Fetched model metadata in 1322ms 81fd56c1-f3eb-45ba-83a1-552de71d17c6
+2024-12-14 09:37:08.862 [info] Logged in as alikhan37544
+2024-12-14 09:37:09.779 [info] Got Copilot token for alikhan37544
+2024-12-14 09:37:09.806 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 09:52:11.299 [info] Fetched model metadata in 1418ms 52dce477-f304-4853-9af6-58c66cdd4c04
+2024-12-14 10:02:09.793 [info] Logged in as alikhan37544
+2024-12-14 10:02:10.621 [info] Got Copilot token for alikhan37544
+2024-12-14 10:02:10.650 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 10:17:12.133 [info] Fetched model metadata in 1456ms a1f46932-4faf-4495-b6d9-25646b2f4c60
+2024-12-14 10:27:10.629 [info] Logged in as alikhan37544
+2024-12-14 10:27:11.270 [info] Got Copilot token for alikhan37544
+2024-12-14 10:27:11.296 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 13:17:42.341 [info] Logged in as alikhan37544
+2024-12-14 13:17:43.469 [info] Got Copilot token for alikhan37544
+2024-12-14 13:17:43.475 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 13:17:45.030 [info] Fetched model metadata in 1560ms 1c52eb6c-7e7a-448b-812c-e1df373f7e6c
+2024-12-14 13:32:46.844 [info] Fetched model metadata in 1788ms 791ece63-8531-4582-97c3-f8c5cab66247
+2024-12-14 13:42:44.871 [info] Logged in as alikhan37544
+2024-12-14 13:42:45.849 [info] Got Copilot token for alikhan37544
+2024-12-14 13:42:45.856 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 13:57:47.189 [info] Fetched model metadata in 1327ms 6b16dac3-477d-449f-9d62-6ac729e39a96
+2024-12-14 14:07:45.854 [info] Logged in as alikhan37544
+2024-12-14 14:07:46.897 [info] Got Copilot token for alikhan37544
+2024-12-14 14:07:46.903 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 14:22:48.375 [info] Fetched model metadata in 1466ms c4e598ac-eb6e-4d4e-8799-6c2dffaec76b
+2024-12-14 14:32:46.901 [info] Logged in as alikhan37544
+2024-12-14 14:32:48.309 [info] Got Copilot token for alikhan37544
+2024-12-14 14:32:48.316 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 14:47:49.708 [info] Fetched model metadata in 1385ms 33437777-09c1-4a45-b712-6eeb654ce2fe
+2024-12-14 14:57:48.314 [info] Logged in as alikhan37544
+2024-12-14 14:57:49.490 [info] Got Copilot token for alikhan37544
+2024-12-14 14:57:49.497 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 15:12:50.902 [info] Fetched model metadata in 1396ms 9c6ed3a4-4ca8-4fcb-ac12-3f31aab4846b
+2024-12-14 15:22:49.495 [info] Logged in as alikhan37544
+2024-12-14 15:22:50.574 [info] Got Copilot token for alikhan37544
+2024-12-14 15:22:50.581 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 15:37:52.353 [info] Fetched model metadata in 1764ms 4d43ba1f-36a3-4159-8c5e-296161ac2f4c
+2024-12-14 15:47:50.579 [info] Logged in as alikhan37544
+2024-12-14 15:47:51.713 [info] Got Copilot token for alikhan37544
+2024-12-14 15:47:51.721 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 16:02:53.257 [info] Fetched model metadata in 1527ms 518cf931-9dbf-451c-941f-0b667cd55122
+2024-12-14 17:00:11.223 [info] Logged in as alikhan37544
+2024-12-14 17:00:11.231 [info] Logged in as alikhan37544
+2024-12-14 17:00:11.242 [info] copilot token chat_enabled: undefined, sku: 
+2024-12-14 17:00:11.328 [info] Logged in as alikhan37544
+2024-12-14 17:00:11.330 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2024-12-14 17:00:11.330 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-14 17:00:11.330 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2024-12-14 17:00:11.330 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-14 17:00:11.330 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2024-12-14 17:00:56.594 [info] Logged in as alikhan37544
+2024-12-14 17:00:57.879 [info] Got Copilot token for alikhan37544
+2024-12-14 17:00:57.905 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-14 17:00:57.907 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2024-12-14 17:00:57.907 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-12-14 17:00:57.907 [info] Successfully registered GitHub PR title and description provider.
+2024-12-14 17:00:59.312 [info] Fetched model metadata in 1343ms 73a38200-37de-4f65-83a1-34f384dc63dd
+2024-12-14 17:16:00.706 [info] Fetched model metadata in 1387ms 451e2640-6eb0-48d0-be35-6c47fa7ff471
+2024-12-15 22:52:32.165 [info] Logged in as alikhan37544
+2024-12-15 22:52:33.080 [info] Got Copilot token for alikhan37544
+2024-12-15 22:52:33.087 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-15 22:52:34.504 [info] Fetched model metadata in 1412ms 699ee09f-361c-43ed-93aa-d79df09105e3
+2024-12-15 23:07:36.093 [info] Fetched model metadata in 1583ms 85f87f18-620d-42bb-abb8-5086cfb1752c
+2024-12-15 23:17:33.088 [info] Logged in as alikhan37544
+2024-12-15 23:17:34.315 [info] Got Copilot token for alikhan37544
+2024-12-15 23:17:34.322 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-15 23:32:36.784 [info] Fetched model metadata in 1503ms 0993c70a-20cc-4ca2-ad39-c738ab419650
+2024-12-15 23:42:35.272 [info] Logged in as alikhan37544
+2024-12-15 23:42:36.336 [info] Got Copilot token for alikhan37544
+2024-12-15 23:42:36.343 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-15 23:57:37.674 [info] Fetched model metadata in 1325ms 26d10cda-e1df-41a9-b5ef-5a8024e228cf
+2024-12-16 00:07:36.340 [info] Logged in as alikhan37544
+2024-12-16 00:07:37.109 [info] Got Copilot token for alikhan37544
+2024-12-16 00:07:37.115 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-16 00:22:38.639 [info] Fetched model metadata in 1517ms 5946b489-e601-4de6-a6ee-cb33b3a13f5c
+2024-12-16 00:32:37.115 [info] Logged in as alikhan37544
+2024-12-16 00:32:37.798 [info] Got Copilot token for alikhan37544
+2024-12-16 00:32:37.802 [info] copilot token chat_enabled: true, sku: free_educational

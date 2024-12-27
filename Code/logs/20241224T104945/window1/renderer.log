@@ -1,0 +1,14 @@
+2024-12-24 10:49:46.371 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-24 10:49:46.383 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-24 10:49:46.383 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-24 10:49:46.865 [info] Started local extension host with pid 3707.
+2024-12-24 10:49:47.726 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-12-24 10:49:47.729 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-24 10:49:47.865 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-12-24 10:49:48.799 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-12-24 10:49:50.098 [info] [perf] Render performance baseline is 30ms
+2024-12-24 10:49:50.482 [warning] Error getting latest version of the extension undefined_publisher.wallbash 400
+2024-12-24 10:50:07.172 [info] Settings Sync: Token updated for the account alikhan37544@gmail.com
+2024-12-24 10:50:07.177 [info] Settings Sync: Account status changed from uninitialized to available
+2024-12-24 10:50:08.829 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/understressengineer/programming/ML-From-Scratch/.git/.gitstatus.FY3H9p' failed: No such file or directory (EUNKNOWN) (path: /home/understressengineer/programming/ML-From-Scratch)
+2024-12-24 10:50:08.829 [error] [File Watcher (universal)] inotify_add_watch on '/home/understressengineer/programming/ML-From-Scratch/.git/.gitstatus.FY3H9p' failed: No such file or directory

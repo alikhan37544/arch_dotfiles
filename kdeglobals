@@ -1,0 +1,12 @@
+[General]
+TerminalApplication=kitty
+
+[Icons]
+Theme=Tela-circle-green
+
+[KDE]
+ShowDeleteCommand=false
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0

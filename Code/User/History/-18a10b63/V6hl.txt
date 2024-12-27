@@ -1,0 +1,8 @@
+Google AI-ML course units to be completed:
+UNIT-1 Program neural networks with TensorFlow https://developers.google.com/learn/pathways/tensorflow#codelab-
+UNIT-2 Get started with object detection https://developers.google.com/learn/pathways/get-started-object-detection?hl=en
+UNIT-3 Go further with object detection https://developers.google.com/learn/pathways/going-further-object-detection?hl=en
+UNIT-4 Get started with product image search https://developers.google.com/learn/pathways/get-started-image-product-search?hl=en 
+UNIT-5 Go further with product image search https://developers.google.com/learn/pathways/going-further-image-product-search?hl=en
+UNIT-6 Go further with image classification https://developers.google.com/learn/pathways/going-further-image-classification?hl=en#quiz-/learn/pathways/quizzes/go-further-image-classification/go-further-image-classification
+

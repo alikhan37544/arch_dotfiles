@@ -1,0 +1,795 @@
+2024-12-13 12:21:24.303 [info] Starting Python Locator /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python-env-tools/bin/pet server
+2024-12-13 12:21:25.609 [info] Discovered env: /bin/python
+2024-12-13 12:21:26.290 [info] Discovered env: /usr/bin/python
+2024-12-13 12:21:26.719 [info] Discovered env: /bin/python2
+2024-12-13 12:21:26.725 [info] Discovered env: /usr/bin/python2
+2024-12-13 12:21:26.729 [info] Discovered env: /bin/python3.10
+2024-12-13 12:21:26.735 [info] Discovered env: /usr/bin/python3.10
+2024-12-13 12:21:26.758 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.758 [info] Discovered env: /sbin/python
+2024-12-13 12:21:26.764 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.764 [info] Discovered env: /usr/sbin/python
+2024-12-13 12:21:26.770 [info] Env ("/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.770 [info] Discovered env: /sbin/python2
+2024-12-13 12:21:26.780 [info] Env ("/usr/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.780 [info] Discovered env: /usr/sbin/python2
+2024-12-13 12:21:26.793 [info] Env ("/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.794 [info] Discovered env: /sbin/python2.7
+2024-12-13 12:21:26.801 [info] Env ("/usr/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.801 [info] Discovered env: /usr/sbin/python2.7
+2024-12-13 12:21:26.808 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.809 [info] Discovered env: /sbin/python3
+2024-12-13 12:21:26.814 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.814 [info] Env ("/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.815 [info] Discovered env: /usr/sbin/python3
+2024-12-13 12:21:26.826 [info] Discovered env: /sbin/python3.10
+2024-12-13 12:21:26.832 [info] Env ("/usr/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.832 [info] Discovered env: /usr/sbin/python3.10
+2024-12-13 12:21:26.840 [info] Env ("/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.840 [info] Discovered env: /sbin/python3.12
+2024-12-13 12:21:26.846 [info] Env ("/usr/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 12:21:26.846 [info] Discovered env: /usr/sbin/python3.12
+2024-12-13 12:21:26.855 [info] Locator Conda took 295.447766ms
+2024-12-13 12:21:26.855 [info] Locator Homebrew took 84.349µs
+2024-12-13 12:21:26.855 [info] Locator LinuxGlobal took 363.457959ms
+2024-12-13 12:21:26.855 [info] Locator PipEnv took 1.216531ms
+2024-12-13 12:21:26.855 [info] Locator Poetry took 1.377372ms
+2024-12-13 12:21:26.855 [info] Locator PyEnv took 2.006571ms
+2024-12-13 12:21:26.855 [info] Locator Venv took 333.699µs
+2024-12-13 12:21:26.855 [info] Locator VirtualEnv took 97.822µs
+2024-12-13 12:21:26.855 [info] Locator VirtualEnvWrapper took 30.452µs
+2024-12-13 12:21:26.855 [info] Locator GlobalVirtualEnvs took 2.698728ms
+2024-12-13 12:21:26.855 [info] Locator Locators took 375.372278ms
+2024-12-13 12:21:26.855 [info] Locator Path took 1.080446369s
+2024-12-13 12:21:26.855 [info] Locator Workspaces took 4.508758ms
+2024-12-13 12:21:26.855 [info] Refresh completed in 1081ms
+2024-12-13 12:21:26.859 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 12:21:26.859 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 12:21:59.013 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 12:21:59.013 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 12:23:08.297 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 12:23:08.297 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 12:26:12.701 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 12:26:12.701 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 12:37:46.752 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 12:37:46.753 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 12:39:44.556 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 12:39:44.556 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 14:50:20.109 [info] Starting Python Locator /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python-env-tools/bin/pet server
+2024-12-13 14:50:21.882 [info] Discovered env: /usr/bin/python
+2024-12-13 14:50:21.892 [info] Discovered env: /bin/python
+2024-12-13 14:50:22.246 [info] Discovered env: /usr/bin/python2
+2024-12-13 14:50:22.507 [info] Discovered env: /bin/python2
+2024-12-13 14:50:22.511 [info] Discovered env: /usr/bin/python3.10
+2024-12-13 14:50:22.518 [info] Discovered env: /bin/python3.10
+2024-12-13 14:50:22.522 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.522 [info] Discovered env: /sbin/python
+2024-12-13 14:50:22.527 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.527 [info] Discovered env: /usr/sbin/python
+2024-12-13 14:50:22.531 [info] Env ("/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.531 [info] Discovered env: /sbin/python2
+2024-12-13 14:50:22.536 [info] Env ("/usr/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.536 [info] Discovered env: /usr/sbin/python2
+2024-12-13 14:50:22.540 [info] Env ("/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.540 [info] Discovered env: /sbin/python2.7
+2024-12-13 14:50:22.549 [info] Env ("/usr/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.549 [info] Discovered env: /usr/sbin/python2.7
+2024-12-13 14:50:22.556 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.556 [info] Discovered env: /sbin/python3
+2024-12-13 14:50:22.562 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.562 [info] Discovered env: /usr/sbin/python3
+2024-12-13 14:50:22.567 [info] Env ("/usr/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.657 [info] Discovered env: /usr/sbin/python3.10
+2024-12-13 14:50:22.755 [info] Env ("/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.755 [info] Discovered env: /sbin/python3.10
+2024-12-13 14:50:22.760 [info] Env ("/usr/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.760 [info] Discovered env: /usr/sbin/python3.12
+2024-12-13 14:50:22.767 [info] Env ("/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 14:50:22.767 [info] Discovered env: /sbin/python3.12
+2024-12-13 14:50:22.774 [info] Locator Conda took 112.13116ms
+2024-12-13 14:50:22.774 [info] Locator Homebrew took 51.105µs
+2024-12-13 14:50:22.775 [info] Locator LinuxGlobal took 192.762806ms
+2024-12-13 14:50:22.775 [info] Locator PipEnv took 19.744µs
+2024-12-13 14:50:22.775 [info] Locator Poetry took 505.484µs
+2024-12-13 14:50:22.775 [info] Locator PyEnv took 758.523µs
+2024-12-13 14:50:22.775 [info] Locator Venv took 153.084µs
+2024-12-13 14:50:22.775 [info] Locator VirtualEnv took 2.742082ms
+2024-12-13 14:50:22.775 [info] Locator VirtualEnvWrapper took 58.636µs
+2024-12-13 14:50:22.775 [info] Locator GlobalVirtualEnvs took 110.93µs
+2024-12-13 14:50:22.775 [info] Locator Locators took 193.445872ms
+2024-12-13 14:50:22.775 [info] Locator Path took 1.083142058s
+2024-12-13 14:50:22.775 [info] Locator Workspaces took 6.06634ms
+2024-12-13 14:50:22.775 [info] Refresh completed in 1083ms
+2024-12-13 14:50:22.777 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 14:50:22.777 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:42:02.411 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:42:02.411 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:42:34.330 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:42:34.331 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:43:16.602 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:43:16.602 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:44:00.021 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:44:00.021 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:44:33.366 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:44:33.366 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:46:31.258 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:46:31.258 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:49:28.622 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:49:28.622 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:49:28.796 [info] Discovered env: /bin/python
+2024-12-13 19:49:28.838 [info] Discovered env: /usr/bin/python
+2024-12-13 19:49:28.871 [info] Discovered env: /bin/python2
+2024-12-13 19:49:28.910 [info] Discovered env: /usr/bin/python2
+2024-12-13 19:49:28.928 [info] Discovered env: /bin/python3.10
+2024-12-13 19:49:28.949 [info] Discovered env: /usr/bin/python3.10
+2024-12-13 19:49:28.981 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:28.981 [info] Discovered env: /sbin/python
+2024-12-13 19:49:28.986 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:28.990 [info] Discovered env: /usr/sbin/python
+2024-12-13 19:49:29.056 [info] Env ("/usr/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.060 [info] Discovered env: /usr/sbin/python2
+2024-12-13 19:49:29.060 [info] Env ("/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.061 [info] Discovered env: /sbin/python2
+2024-12-13 19:49:29.083 [info] Env ("/usr/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.083 [info] Discovered env: /usr/sbin/python2.7
+2024-12-13 19:49:29.083 [info] Env ("/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.084 [info] Discovered env: /sbin/python2.7
+2024-12-13 19:49:29.138 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.138 [info] Discovered env: /usr/sbin/python3
+2024-12-13 19:49:29.151 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.152 [info] Discovered env: /sbin/python3
+2024-12-13 19:49:29.207 [info] Env ("/usr/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.207 [info] Discovered env: /usr/sbin/python3.10
+2024-12-13 19:49:29.224 [info] Env ("/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.224 [info] Discovered env: /sbin/python3.10
+2024-12-13 19:49:29.252 [info] Env ("/usr/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.253 [info] Discovered env: /usr/sbin/python3.12
+2024-12-13 19:49:29.261 [info] Env ("/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:29.261 [info] Discovered env: /sbin/python3.12
+2024-12-13 19:49:29.601 [info] Locator Conda took 204.636746ms
+2024-12-13 19:49:29.601 [info] Locator Homebrew took 1.471776ms
+2024-12-13 19:49:29.601 [info] Locator LinuxGlobal took 362.708833ms
+2024-12-13 19:49:29.601 [info] Locator PipEnv took 37.053µs
+2024-12-13 19:49:29.601 [info] Locator Poetry took 239.026µs
+2024-12-13 19:49:29.602 [info] Locator PyEnv took 252.473µs
+2024-12-13 19:49:29.602 [info] Locator Venv took 26.497µs
+2024-12-13 19:49:29.602 [info] Locator VirtualEnv took 42.573µs
+2024-12-13 19:49:29.602 [info] Locator VirtualEnvWrapper took 22.428µs
+2024-12-13 19:49:29.602 [info] Locator GlobalVirtualEnvs took 196.726µs
+2024-12-13 19:49:29.602 [info] Locator Locators took 367.278418ms
+2024-12-13 19:49:29.602 [info] Locator Path took 1.010840734s
+2024-12-13 19:49:29.602 [info] Locator Workspaces took 8.568805ms
+2024-12-13 19:49:29.602 [info] Refresh completed in 1011ms
+2024-12-13 19:49:36.194 [info] Discovered env: /bin/python
+2024-12-13 19:49:36.228 [info] Discovered env: /usr/bin/python
+2024-12-13 19:49:36.253 [info] Discovered env: /bin/python2
+2024-12-13 19:49:36.265 [info] Discovered env: /usr/bin/python2
+2024-12-13 19:49:36.302 [info] Discovered env: /bin/python3.10
+2024-12-13 19:49:36.317 [info] Discovered env: /usr/bin/python3.10
+2024-12-13 19:49:36.318 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.318 [info] Discovered env: /usr/sbin/python
+2024-12-13 19:49:36.353 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.354 [info] Discovered env: /sbin/python
+2024-12-13 19:49:36.365 [info] Env ("/usr/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.366 [info] Discovered env: /usr/sbin/python2
+2024-12-13 19:49:36.400 [info] Env ("/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.400 [info] Discovered env: /sbin/python2
+2024-12-13 19:49:36.408 [info] Env ("/usr/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.409 [info] Discovered env: /usr/sbin/python2.7
+2024-12-13 19:49:36.448 [info] Env ("/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.448 [info] Discovered env: /sbin/python2.7
+2024-12-13 19:49:36.448 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.448 [info] Discovered env: /usr/sbin/python3
+2024-12-13 19:49:36.479 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.480 [info] Discovered env: /sbin/python3
+2024-12-13 19:49:36.490 [info] Env ("/usr/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.492 [info] Discovered env: /usr/sbin/python3.10
+2024-12-13 19:49:36.523 [info] Env ("/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.524 [info] Discovered env: /sbin/python3.10
+2024-12-13 19:49:36.532 [info] Env ("/usr/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.533 [info] Discovered env: /usr/sbin/python3.12
+2024-12-13 19:49:36.556 [info] Env ("/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:49:36.563 [info] Discovered env: /sbin/python3.12
+2024-12-13 19:49:36.848 [info] Locator Conda took 162.721067ms
+2024-12-13 19:49:36.848 [info] Locator Homebrew took 339.992µs
+2024-12-13 19:49:36.848 [info] Locator LinuxGlobal took 253.501858ms
+2024-12-13 19:49:36.848 [info] Locator PipEnv took 12.763µs
+2024-12-13 19:49:36.848 [info] Locator Poetry took 212.616µs
+2024-12-13 19:49:36.848 [info] Locator PyEnv took 178.116µs
+2024-12-13 19:49:36.848 [info] Locator Venv took 22.265µs
+2024-12-13 19:49:36.848 [info] Locator VirtualEnv took 26.547µs
+2024-12-13 19:49:36.848 [info] Locator VirtualEnvWrapper took 20.294µs
+2024-12-13 19:49:36.848 [info] Locator GlobalVirtualEnvs took 68.106µs
+2024-12-13 19:49:36.848 [info] Locator Locators took 254.793727ms
+2024-12-13 19:49:36.848 [info] Locator Path took 785.532423ms
+2024-12-13 19:49:36.848 [info] Locator Workspaces took 8.713607ms
+2024-12-13 19:49:36.849 [info] Refresh completed in 785ms
+2024-12-13 19:50:01.060 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:50:01.061 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:53:18.449 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:53:18.449 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:54:05.599 [info] Starting Python Locator /home/understressengineer/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python-env-tools/bin/pet server
+2024-12-13 19:54:08.111 [info] Discovered env: /bin/python
+2024-12-13 19:54:08.134 [info] Discovered env: /usr/bin/python
+2024-12-13 19:54:08.142 [info] Discovered env: /bin/python2
+2024-12-13 19:54:08.167 [info] Discovered env: /usr/bin/python2
+2024-12-13 19:54:09.076 [info] Discovered env: /usr/bin/python3.10
+2024-12-13 19:54:09.281 [info] Discovered env: /bin/python3.10
+2024-12-13 19:54:09.318 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.319 [info] Discovered env: /usr/sbin/python
+2024-12-13 19:54:09.324 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.324 [info] Discovered env: /sbin/python
+2024-12-13 19:54:09.328 [info] Env ("/usr/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.329 [info] Discovered env: /usr/sbin/python2
+2024-12-13 19:54:09.334 [info] Env ("/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.334 [info] Discovered env: /sbin/python2
+2024-12-13 19:54:09.340 [info] Env ("/usr/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.340 [info] Discovered env: /usr/sbin/python2.7
+2024-12-13 19:54:09.348 [info] Env ("/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.348 [info] Discovered env: /sbin/python2.7
+2024-12-13 19:54:09.354 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.354 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.354 [info] Discovered env: /sbin/python3
+2024-12-13 19:54:09.359 [info] Discovered env: /usr/sbin/python3
+2024-12-13 19:54:09.369 [info] Env ("/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.370 [info] Discovered env: /sbin/python3.10
+2024-12-13 19:54:09.376 [info] Env ("/usr/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.376 [info] Discovered env: /usr/sbin/python3.10
+2024-12-13 19:54:09.382 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:54:09.382 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-13 19:54:09.443 [info] Env ("/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.447 [info] Discovered env: /sbin/python3.12
+2024-12-13 19:54:09.454 [info] Env ("/usr/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-13 19:54:09.457 [info] Discovered env: /usr/sbin/python3.12
+2024-12-13 19:54:09.471 [info] Locator Conda took 226.930353ms
+2024-12-13 19:54:09.471 [info] Locator Homebrew took 1.048429ms
+2024-12-13 19:54:09.471 [info] Locator LinuxGlobal took 378.938405ms
+2024-12-13 19:54:09.471 [info] Locator PipEnv took 27.234µs
+2024-12-13 19:54:09.471 [info] Locator Poetry took 818.96µs
+2024-12-13 19:54:09.471 [info] Locator PyEnv took 575.562µs
+2024-12-13 19:54:09.471 [info] Locator Venv took 28.874µs
+2024-12-13 19:54:09.471 [info] Locator VirtualEnv took 32.159µs
+2024-12-13 19:54:09.471 [info] Locator VirtualEnvWrapper took 30.353µs
+2024-12-13 19:54:09.471 [info] Locator GlobalVirtualEnvs took 390.254µs
+2024-12-13 19:54:09.471 [info] Locator Locators took 384.919938ms
+2024-12-13 19:54:09.471 [info] Locator Path took 996.918012ms
+2024-12-13 19:54:09.471 [info] Locator Workspaces took 6.399072ms
+2024-12-13 19:54:09.471 [info] Refresh completed in 997ms
+2024-12-13 19:57:46.836 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-13 19:57:46.836 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-14 13:08:05.527 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-14 13:08:05.527 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-14 13:08:36.228 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-14 13:08:36.229 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-14 17:06:53.947 [info] Discovered env: /usr/bin/python
+2024-12-14 17:06:53.948 [info] Discovered env: /bin/python
+2024-12-14 17:06:54.077 [info] Discovered env: /usr/bin/python2
+2024-12-14 17:06:54.078 [info] Discovered env: /bin/python2
+2024-12-14 17:06:54.079 [info] Discovered env: /usr/bin/python3.10
+2024-12-14 17:06:54.080 [info] Discovered env: /bin/python3.10
+2024-12-14 17:06:54.080 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.080 [info] Discovered env: /usr/sbin/python
+2024-12-14 17:06:54.081 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.081 [info] Discovered env: /sbin/python
+2024-12-14 17:06:54.081 [info] Env ("/usr/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.081 [info] Discovered env: /usr/sbin/python2
+2024-12-14 17:06:54.082 [info] Env ("/sbin/python2") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.082 [info] Discovered env: /sbin/python2
+2024-12-14 17:06:54.082 [info] Env ("/usr/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.082 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-14 17:06:54.082 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python
+2024-12-14 17:06:54.083 [info] Discovered env: /usr/sbin/python2.7
+2024-12-14 17:06:54.084 [info] Env ("/sbin/python2.7") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python2.7", prefix: "/usr", version: "2.7.18.final.0", is64_bit: true, symlinks: Some(["/sbin/python2.7"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.096 [info] Discovered env: /sbin/python2.7
+2024-12-14 17:06:54.114 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.115 [info] Discovered env: /usr/sbin/python3
+2024-12-14 17:06:54.138 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.138 [info] Discovered env: /sbin/python3
+2024-12-14 17:06:54.141 [info] Env ("/usr/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.142 [info] Discovered env: /usr/sbin/python3.10
+2024-12-14 17:06:54.145 [info] Env ("/sbin/python3.10") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.10", prefix: "/usr", version: "3.10.14.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.10"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.145 [info] Discovered env: /sbin/python3.10
+2024-12-14 17:06:54.158 [info] Env ("/usr/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.158 [info] Discovered env: /usr/sbin/python3.12
+2024-12-14 17:06:54.166 [info] Env ("/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.12", prefix: "/usr", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-12-14 17:06:54.166 [info] Discovered env: /sbin/python3.12
+2024-12-14 17:06:54.440 [info] Locator Conda took 98.323482ms
+2024-12-14 17:06:54.440 [info] Locator Homebrew took 32.749µs
+2024-12-14 17:06:54.440 [info] Locator LinuxGlobal took 161.439978ms
+2024-12-14 17:06:54.440 [info] Locator PipEnv took 142.442µs
+2024-12-14 17:06:54.440 [info] Locator Poetry took 252.474µs
+2024-12-14 17:06:54.440 [info] Locator PyEnv took 257.017µs
+2024-12-14 17:06:54.440 [info] Locator Venv took 199.452µs
+2024-12-14 17:06:54.440 [info] Locator VirtualEnv took 10.711µs
+2024-12-14 17:06:54.440 [info] Locator VirtualEnvWrapper took 10.37µs
+2024-12-14 17:06:54.440 [info] Locator GlobalVirtualEnvs took 134.979µs
+2024-12-14 17:06:54.440 [info] Locator Locators took 163.593872ms
+2024-12-14 17:06:54.440 [info] Locator Path took 582.333293ms
+2024-12-14 17:06:54.440 [info] Locator Workspaces took 1.621236ms
+2024-12-14 17:06:54.440 [info] Refresh completed in 582ms
+2024-12-15 22:52:20.381 [warning] Inaccurate Python Environment Info for => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 2.7.18
+   Prefix      : /home/understressengineer/programming/env_hack
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+.
+Resolved as => 
+Environment (Venv)
+   Executable  : /home/understressengineer/programming/env_hack/bin/python
+   Version     : 3.10.14.final.0
+   Prefix      : /home/understressengineer/programming/env_hack
+   Architecture: x64
+   Symlinks    : "/home/understressengineer/programming/env_hack/bin/python"
+               : "/home/understressengineer/programming/env_hack/bin/python3"
+               : "/home/understressengineer/programming/env_hack/bin/python3.10"
+
+Incorrect information => 
+Environment Some(Venv) incorrectly identified
+   Version is incorrect
+
+2024-12-15 22:52:20.381 [info] Resolved Python Environment /home/understressengineer/programming/env_hack/bin/python

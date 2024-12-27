@@ -1,0 +1,32 @@
+2024-12-13 12:21:11.572 [info] update#setState idle
+2024-12-13 12:21:41.508 [info] update#setState checking for updates
+2024-12-13 12:21:41.580 [info] update#setState idle
+2024-12-13 14:50:14.680 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 90108]: crashed with code 15 and reason 'killed'
+2024-12-13 14:50:16.471 [info] Extension host with pid 90006 exited with code: 0, signal: unknown.
+2024-12-13 15:15:57.187 [info] update#setState checking for updates
+2024-12-13 15:15:57.696 [info] update#setState idle
+2024-12-13 16:31:25.258 [info] update#setState checking for updates
+2024-12-13 16:31:25.269 [error] [network] #5: https://update.code.visualstudio.com/api/update/linux-x64/stable/138f619c86f1199955d53b4166bef66ef252935c - error undefined net::ERR_INTERNET_DISCONNECTED
+2024-12-13 16:31:25.272 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117531)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2024-12-13 16:31:25.277 [info] update#setState idle
+2024-12-13 19:53:54.679 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 139889]: crashed with code 15 and reason 'killed'
+2024-12-13 19:53:56.144 [info] Extension host with pid 139762 exited with code: 0, signal: unknown.
+2024-12-13 20:17:57.553 [info] update#setState checking for updates
+2024-12-13 20:17:57.941 [info] update#setState idle
+2024-12-14 09:20:54.849 [info] update#setState checking for updates
+2024-12-14 09:20:54.986 [info] update#setState idle
+2024-12-14 10:20:54.857 [info] update#setState checking for updates
+2024-12-14 10:20:55.465 [info] update#setState idle
+2024-12-14 13:56:27.281 [info] update#setState checking for updates
+2024-12-14 13:56:27.712 [info] update#setState idle
+2024-12-14 14:56:27.284 [info] update#setState checking for updates
+2024-12-14 14:56:27.760 [info] update#setState idle
+2024-12-14 15:56:27.286 [info] update#setState checking for updates
+2024-12-14 15:56:27.807 [info] update#setState idle
+2024-12-15 22:43:57.649 [warning] No ptyHost heartbeat after 6 seconds
+2024-12-15 23:09:43.185 [info] update#setState checking for updates
+2024-12-15 23:09:43.683 [info] update#setState idle
+2024-12-16 00:09:44.142 [info] update#setState checking for updates
+2024-12-16 00:09:44.773 [info] update#setState idle

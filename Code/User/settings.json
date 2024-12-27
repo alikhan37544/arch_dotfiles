@@ -1,0 +1,29 @@
+{
+  "discord.state": "Breaking his head on {projectName}",
+  "discord.details": "Figuring out how {filename} works",
+  "window.autoDetectColorScheme": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "git.autofetch": true,
+  "editor.largeFileOptimizations": false,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  },
+  "workbench.iconTheme": "eq-material-theme-icons-darker",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "workbench.colorTheme": "wallbash",
+  "github.copilot.editor.enableAutoCompletions": true,
+  "jupyter.askForKernelRestart": false,
+  "editor.minimap.enabled": false,
+  "window.openFilesInNewWindow": "default",
+  "window.openFoldersInNewWindow": "on"
+}

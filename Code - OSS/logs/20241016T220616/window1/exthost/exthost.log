@@ -1,0 +1,13 @@
+2024-10-16 22:06:21.613 [info] Extension host with pid 52753 started
+2024-10-16 22:06:21.613 [info] Skipping acquiring lock for /home/understressengineer/.config/Code - OSS/User/workspaceStorage/f8d3436096069d68e107dbf802efce5c.
+2024-10-16 22:06:22.434 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-16 22:06:22.899 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-16 22:06:22.939 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-16 22:06:23.256 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-16 22:06:23.453 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-10-16 22:06:23.454 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-10-16 22:06:23.536 [info] Eager extensions activated
+2024-10-16 22:06:23.609 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-16 22:06:23.617 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-16 22:17:14.972 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-16 22:17:14.980 [info] Extension host with pid 52753 exiting with code 0

@@ -1,0 +1,26 @@
+2024-12-24 10:49:47.325 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-12-24 10:49:47.325 [info] Auto Sync is enabled.
+2024-12-24 10:49:47.325 [info] Auto Sync: Suspended until auth token is available.
+2024-12-24 10:50:07.178 [info] Auto Sync: Triggered by Interval
+2024-12-24 10:50:07.178 [info] Sync started.
+2024-12-24 10:50:07.963 [info] Settings: No changes found during synchronizing settings.
+2024-12-24 10:50:07.973 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-12-24 10:50:07.978 [info] Snippets: No changes found during synchronizing snippets.
+2024-12-24 10:50:07.988 [info] Tasks: No changes found during synchronizing tasks.
+2024-12-24 10:50:08.165 [info] GlobalState: Updated global state ["workbench.activity.pinnedViewlets2","memento/gettingStartedService"]
+2024-12-24 10:50:08.165 [info] GlobalState: Updated local ui state
+2024-12-24 10:50:09.525 [info] GlobalState: Updated remote ui state. Updated: cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2024-12-24 10:50:09.530 [info] GlobalState: Updated last synchronized ui state
+2024-12-24 10:50:09.629 [info] Extensions: No changes found during synchronizing extensions.
+2024-12-24 10:50:09.632 [info] Profiles: No changes found during synchronizing profiles.
+2024-12-24 10:50:09.634 [info] Sync done. Took 2459ms
+2024-12-24 10:50:10.423 [info] Auto Sync: Triggered by Activity
+2024-12-24 10:50:10.423 [info] Sync started.
+2024-12-24 10:50:10.561 [info] Settings: No changes found during synchronizing settings.
+2024-12-24 10:50:10.563 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-12-24 10:50:10.565 [info] Snippets: No changes found during synchronizing snippets.
+2024-12-24 10:50:10.573 [info] Tasks: No changes found during synchronizing tasks.
+2024-12-24 10:50:10.575 [info] GlobalState: No changes found during synchronizing ui state.
+2024-12-24 10:50:10.647 [info] Extensions: No changes found during synchronizing extensions.
+2024-12-24 10:50:10.651 [info] Profiles: No changes found during synchronizing profiles.
+2024-12-24 10:50:10.653 [info] Sync done. Took 230ms

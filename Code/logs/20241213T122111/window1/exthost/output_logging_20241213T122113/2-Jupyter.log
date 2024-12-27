@@ -1,0 +1,38 @@
+Visual Studio Code (1.96.0, undefined, desktop)
+Jupyter Extension Version: 2024.11.0.
+Python Extension Version: 2024.22.0.
+Pylance Extension Version: 2024.12.1.
+Platform: linux (x64).
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2024.11.0
+Workspace folder ~/programming/ML-From-Scratch, Home = /home/understressengineer
+12:21:16.095 [info] Deleting old temp dir /home/~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2024.10.0
+12:21:43.474 [info] Starting Kernel (Python Path: ~/programming/env_hack/bin/python, Venv, 3.10.14) for '~/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb' (disableUI=true)
+12:21:44.745 [info] Process Execution: ~/programming/env_hack/bin/python -m pip list
+12:21:44.810 [info] Process Execution: ~/programming/env_hack/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:21:44.876 [info] Process Execution: ~/programming/env_hack/bin/python -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3dccf374124733f53479accc25a64e6025914ea90.json
+    > cwd: //home/~/programming/ML-From-Scratch/Google For Developers
+12:21:46.805 [info] Kernel successfully started
+12:21:46.840 [info] Process Execution: ~/programming/env_hack/bin/python /home/~/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/pythonFiles/printJupyterDataDir.py
+12:23:09.878 [warn] Cell completed with errors iu [Error]: name 'training_images' is not defined
+    at n.execute (/home/~/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958) {
+  ename: 'NameError',
+  evalue: "name 'training_images' is not defined",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mNameError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[3], line 2\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[38;5;28;01mimport\x1B[39;00m \x1B[38;5;21;01mmatplotlib\x1B[39;00m\x1B[38;5;21;01m.\x1B[39;00m\x1B[38;5;21;01mpyplot\x1B[39;00m \x1B[38;5;28;01mas\x1B[39;00m \x1B[38;5;21;01mplt\x1B[39;00m\n' +
+      '\x1B[0;32m----> 2\x1B[0m plt\x1B[38;5;241m.\x1B[39mimshow(\x1B[43mtraining_images\x1B[49m[\x1B[38;5;241m0\x1B[39m])\n' +
+      '\x1B[1;32m      3\x1B[0m \x1B[38;5;28mprint\x1B[39m(training_labels[\x1B[38;5;241m0\x1B[39m])\n' +
+      '\x1B[1;32m      4\x1B[0m \x1B[38;5;28mprint\x1B[39m(training_images[\x1B[38;5;241m0\x1B[39m])\n',
+    "\x1B[0;31mNameError\x1B[0m: name 'training_images' is not defined"
+  ]
+}
+14:50:14.473 [info] Dispose Kernel '~/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb' associated with '~/programming/ML-From-Scratch/Google For Developers/Build_Computer_Vision_Model_With_Tensorflow.ipynb'
+14:50:14.588 [warn] Failed to delete connection file file:///home/~/.local/share/jupyter/runtime/kernel-v3dccf374124733f53479accc25a64e6025914ea90.json for pid 91627 Canceled (FileSystemError): Canceled
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9853)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at Bc.delete (/home/~/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:239:15448)
+    at /home/~/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:303:469 {
+  code: 'Unknown'
+}

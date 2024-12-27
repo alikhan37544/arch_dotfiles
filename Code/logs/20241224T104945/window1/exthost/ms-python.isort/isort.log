@@ -1,0 +1,91 @@
+2024-12-24 10:50:05.619 [info] Name: isort
+2024-12-24 10:50:05.619 [info] Module: isort
+2024-12-24 10:50:05.619 [info] Python extension loading
+2024-12-24 10:50:05.619 [info] Waiting for interpreter from python extension.
+2024-12-24 10:50:05.738 [info] No interpreter found from setting isort.interpreter
+2024-12-24 10:50:05.738 [info] Getting interpreter from ms-python.python extension for workspace /home/understressengineer/programming/ML-From-Scratch
+2024-12-24 10:50:05.738 [info] Python extension loaded
+2024-12-24 10:50:05.745 [info] Interpreter from ms-python.python extension for /home/understressengineer/programming/ML-From-Scratch: /home/understressengineer/programming/env_hack/bin/python
+2024-12-24 10:50:05.775 [info] No interpreter found from setting isort.interpreter
+2024-12-24 10:50:05.776 [info] Getting interpreter from ms-python.python extension for workspace /home/understressengineer/programming/ML-From-Scratch
+2024-12-24 10:50:05.790 [info] Interpreter from ms-python.python extension for /home/understressengineer/programming/ML-From-Scratch: /home/understressengineer/programming/env_hack/bin/python
+2024-12-24 10:50:05.807 [info] Server run command: /home/understressengineer/programming/env_hack/bin/python /home/understressengineer/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2024-12-24 10:50:05.808 [info] Server: Start requested.
+2024-12-24 10:50:06.835 [info] CWD Server: /home/understressengineer/programming/ML-From-Scratch
+2024-12-24 10:50:06.835 [info] sys.path used to run Server:
+   /home/understressengineer/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/understressengineer/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib/python310.zip
+   /usr/lib/python3.10
+   /usr/lib/python3.10/lib-dynload
+   /home/understressengineer/programming/env_hack/lib/python3.10/site-packages
+2024-12-24 10:50:06.835 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/understressengineer/programming/ML-From-Scratch",
+        "workspace": "file:///home/understressengineer/programming/ML-From-Scratch",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/home/understressengineer/programming/env_hack/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-12-24 10:50:06.836 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/understressengineer/programming/ML-From-Scratch",
+    "workspace": "/home/understressengineer/programming/ML-From-Scratch",
+    "args": [],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-12-24 10:50:06.840 [info] /home/understressengineer/programming/env_hack/bin/python -m isort --version-number
+2024-12-24 10:50:06.840 [info] CWD Linter: /home/understressengineer/programming/ML-From-Scratch
+2024-12-24 10:50:06.848 [info] Version info for isort running for /home/understressengineer/programming/ML-From-Scratch:
+5.11.5
+
+2024-12-24 10:50:06.848 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2024-12-24 10:50:06.861 [info] [Trace - 10:50:06 AM] Sending request 'textDocument/codeAction - (1)'.
+2024-12-24 10:50:06.864 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.865 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.866 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.869 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.870 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.870 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.871 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.872 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.873 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.874 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.875 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.876 [info] [Trace - 10:50:06 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-24 10:50:06.885 [info] [Trace - 10:50:06 AM] Received response 'textDocument/codeAction - (1)' in 24ms.
+2024-12-24 10:50:07.230 [info] [Trace - 10:50:07 AM] Sending request 'textDocument/codeAction - (2)'.
+2024-12-24 10:50:07.240 [info] [Trace - 10:50:07 AM] Received response 'textDocument/codeAction - (2)' in 10ms.
+2024-12-24 10:50:07.571 [info] [Trace - 10:50:07 AM] Sending request 'textDocument/codeAction - (3)'.
+2024-12-24 10:50:07.576 [info] [Trace - 10:50:07 AM] Received response 'textDocument/codeAction - (3)' in 5ms.
+2024-12-24 10:50:08.382 [info] [Trace - 10:50:08 AM] Sending request 'textDocument/codeAction - (4)'.
+2024-12-24 10:50:08.386 [info] [Trace - 10:50:08 AM] Sending request 'textDocument/codeAction - (5)'.
+2024-12-24 10:50:08.391 [info] [Trace - 10:50:08 AM] Received response 'textDocument/codeAction - (4)' in 9ms.
+2024-12-24 10:50:08.392 [info] [Trace - 10:50:08 AM] Received response 'textDocument/codeAction - (5)' in 6ms.
+2024-12-24 10:50:10.196 [info] [Trace - 10:50:10 AM] Sending request 'textDocument/codeAction - (6)'.
+2024-12-24 10:50:10.198 [info] [Trace - 10:50:10 AM] Sending request 'textDocument/codeAction - (7)'.
+2024-12-24 10:50:10.203 [info] [Trace - 10:50:10 AM] Received response 'textDocument/codeAction - (6)' in 7ms.
+2024-12-24 10:50:10.203 [info] [Trace - 10:50:10 AM] Received response 'textDocument/codeAction - (7)' in 5ms.
